@@ -10,4 +10,4 @@
 * Timeline
    * By next Monday (2/22) come up with a schema
        * If time permits, we can begin autotag lyrics 
-       * 
+* I'm excited to work with you all! -Autumn
