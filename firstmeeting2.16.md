@@ -2,7 +2,7 @@
 
 * Began with talking about the theme of our project
 * Narrowing down our research project
-    * Her three most recent albums:
+    * Her three most recent albums: Musas Vol 1 & 2 y un Canto por Mexico Vol 1
     * tagging an attribute to tag which ones are origional songs and covers 
     * specific themes within certain so 
     * celestrial body / natural imagery (land, water, moon, etc) 
