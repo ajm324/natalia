@@ -1,0 +1,23 @@
+start = song
+song = element song { orig* | meta* | verse* | chorus* | bridge* | pre-chorus* | post-chorus* | outro*}
+orig = attribute orig {"orig" | "cover"}
+meta = element meta { title |writers* | features* | style* | location*}
+title = element title {text}
+writers = element writers {text}
+features = element features {text}
+style = element style {text}
+location = element location {text}
+verse = element verse {mixed{line* | assoc* | place*}}
+line = element line {text}
+assoc = element assoc {mixed{type* | image*}}
+type = attribute type {"earth" | "space" | "spirit"}
+image = attribute image {text} 
+place = element place {text}
+chorus = element chorus {mixed{ assoc* | line* | place*}}
+bridge = element bridge {mixed{assoc* | line* | place*}}
+pre-chorus = element pre-chorus {mixed{assoc* | line* | place*}}
+post-chorus = element post-chorus {mixed{assoc* | line* | place*}}
+outro = element outro {mixed{assoc* | line* | place*}}
+
+
+
