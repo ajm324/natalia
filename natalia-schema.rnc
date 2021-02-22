@@ -1,8 +1,9 @@
 start = song
 song = element song { orig* | meta* | verse* | chorus* | bridge* | pre-chorus* | post-chorus* | outro*}
 orig = attribute orig {"orig" | "cover"}
-meta = element meta { title |writers* | features* | style* | location*}
+meta = element meta { album|title |writers* | features* | style* | location*}
 title = element title {text}
+album = element album {"musas-01"| "musas-02" | "canto-01"}
 writers = element writers {text}
 features = element features {text}
 style = element style {text}
