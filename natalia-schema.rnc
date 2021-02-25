@@ -1,24 +1,24 @@
 start = song
-song = element song { orig* | meta* | verse* | chorus* | bridge* | pre-chorus* | post-chorus* | outro*}
+song = element song { (orig | meta | verse | chorus | bridge | pre-chorus | post-chorus | outro)*}
 orig = attribute orig {"orig" | "cover"}
-meta = element meta { album|title |writers* | features* | style* | location*}
+meta = element meta { album, title, (writers | features | style | location)*}
 title = element title {text}
 album = element album {"musas-01"| "musas-02" | "canto-01"}
 writers = element writers {text}
 features = element features {text}
 style = element style {text}
 location = element location {text}
-verse = element verse {mixed{line* | assoc* | place*}}
-line = element line {text}
-assoc = element assoc {mixed{type* | image*}}
-type = attribute type {"earth" | "space" | "spirit"}
+line = element line {mixed{(assoc | place)*}}
+verse = element verse {line+}
+assoc = element assoc {mixed{(type | image)*}}
+type = attribute type {"earth"| "water" | "space" | "spirit"}
 image = attribute image {text} 
 place = element place {text}
-chorus = element chorus {mixed{ assoc* | line* | place*}}
-bridge = element bridge {mixed{assoc* | line* | place*}}
-pre-chorus = element pre-chorus {mixed{assoc* | line* | place*}}
-post-chorus = element post-chorus {mixed{assoc* | line* | place*}}
-outro = element outro {mixed{assoc* | line* | place*}}
+chorus = element chorus {mixed{(line | assoc | place)*}}
+bridge = element bridge {mixed{(line | assoc | place)*}}
+pre-chorus = element pre-chorus {mixed{(line | assoc | place)*}}
+post-chorus = element post-chorus {mixed{(line | assoc | place)*}}
+outro = element outro {mixed{(line | assoc | place)*}}
 
 
 

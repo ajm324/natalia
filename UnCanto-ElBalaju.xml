@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig="cover">
+    <meta>
+        <album>canto-01</album>
+        <title>El Balajú</title>
+        <writers>Natalia Lafourcade, José Alfredo Jiménez</writers>
+        <features>Los Cojolites</features>
+        <style>Huapango</style>
+        <location>Mexico</location>
+    </meta>
+
+    <verse>
+        <line>Balajú se fue a la guerra y no me quiso llevar</line>
+        <line>Y no me quiso llevar, Balajú se fue a la guerra</line>
+        <line>Le dijo a su compañera, vámonos a navegar</line>
+        <line>A ver quién llega primero al <assoc type = "water" image = "sea">otro lado del mar</assoc></line>
+    </verse>
+
+    <chorus>
+        <line>Aires y más ariles, ariles de aquel que iba</line>
+        <line>A darle agua a su caballo y no se le acaba de arriba</line>
+        <line>Aires y más ariles, aires del carrizal</line>
+        <line>Me picaron las abejas, pero me comí el panal</line>
+    </chorus>
+
+    <verse>
+        <line>Ariles, muy bien ariles, ariles de la ensenada</line>
+        <line>Yo también fui marinero de agua dulce y salada</line>
+        <line>Ariles, mi bien, ariles, ariles del mar abierto</line>
+        <line>No sigo ninguna seña, es libre mi pensamiento</line>
+    </verse>
+
+    <chorus>
+        <line>Ariles, muy bien ariles, no sabemos dónde está</line>
+        <line>En toda la tierra entera, son tiempos de oscuridad</line>
+        <line>Ariles, muy bien ariles, sonido de tu sandalias cuando caminas, bonita</line>
+        <line>Mi amada y dulce, Natalia</line>
+    </chorus>
+
+    <verse>
+        <line>Les presento una muchacha que su esencia es de luz</line>
+        <line>Cara linda, lindos ojos y viene de Veracruz</line>
+        <line>Con su voz y su guitarra siempre trae felicidades</line>
+        <line>Recibamos con aplausos a Natalia Lafourcade (Olé)</line>
+    </verse>
+
+    <verse>
+        <line>Qué me gusta el Balajú, nada más por su sonido</line>
+        <line>Nada más por su sonido, qué me gusta el Balajú</line>
+        <line>También el pájaro cu, y el de la cinta morada</line>
+        <line>Pero más mi Veracruz, tierra bendita y amada</line>
+    </verse>
+
+    <chorus>
+        <line>Ariles y más ariles, ariles de aquel que fue</line>
+        <line>A darle agua a su caballo y se le murió de sed</line>
+        <line>Aires y más ariles, aires del carrizalA darle agua a su caballo y se le murió de
+            sed</line>
+        <line>Me picaron las abejas, pero me comí el panal, ay, ay</line>
+    </chorus>
+
+
+    <!--Serenata Huasteca
+this song includes two distinct songs, we should add something to the schema to address this -->
+
+    <verse>
+        <line>Canto al pie de tu ventana</line>
+        <line>Pa' que sepas que te quiero</line>
+        <line>Tú a mí no me quieres nada</line>
+        <line>Pero yo por ti, me muero</line>
+        <line>Dicen que ando muy errado</line>
+        <line>Que despierte de mis sueños</line>
+        <line>Pero se han equivocado</line>
+        <line>Porque yo he de ser tu dueña</line>
+    </verse>
+
+    <chorus>
+        <line>¿Qué voy a hacer?</line>
+        <line>Si de veras te quiero</line>
+        <line>Ya te adoré</line>
+        <line>Y olvidarte no puedo</line>
+    </chorus>
+
+    <verse>
+        <line>Dicen que pa' conseguirte</line>
+        <line>Necesito una fortuna</line>
+        <line>Que debo bajar del cielo</line>
+        <line>Las estrellas y la luna</line>
+        <line>Yo no bajaré la luna</line>
+        <line>Ni las estrellas tampoco</line>
+        <line>Y aunque no tengo fortuna</line>
+        <line>Me querrás poquito a poco</line>
+    </verse>
+
+
+    <chorus>
+        <line>¿Qué voy a hacer? (¿Y qué voy a hacer?)</line>
+        <line>Si de veras te quiero</line>
+        <line>Ya te adoré (Yo ya te adoré)</line>
+        <line>Y olvidarte no puedo</line>
+        <line>¿Qué voy a hacer? (¿Y qué voy a hacer?)</line>
+        <line>Si de veras te quiero</line>
+        <line>Ya te adoré (Yo ya te adoré)</line>
+        <line>Y olvidarte no puedo</line>
+    </chorus>
+</song>
