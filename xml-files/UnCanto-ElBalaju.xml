@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
 <song orig="cover">
     <meta>
         <album>canto-01</album>
@@ -14,33 +14,37 @@
         <line>Balajú se fue a la guerra y no me quiso llevar</line>
         <line>Y no me quiso llevar, Balajú se fue a la guerra</line>
         <line>Le dijo a su compañera, vámonos a navegar</line>
-        <line>A ver quién llega primero al <assoc type = "water" image = "sea">otro lado del mar</assoc></line>
+        <line>A ver quién llega primero al <assoc type="water" image="sea">otro lado del
+            mar</assoc></line>
     </verse>
 
     <chorus>
         <line>Aires y más ariles, ariles de aquel que iba</line>
         <line>A darle agua a su caballo y no se le acaba de arriba</line>
-        <line>Aires y más ariles, aires del carrizal</line>
+        <line>Aires y más ariles, aires del <assoc type="earth" image="reedbed"
+            >carrizal</assoc></line>
         <line>Me picaron las abejas, pero me comí el panal</line>
     </chorus>
 
     <verse>
-        <line>Ariles, muy bien ariles, ariles de la ensenada</line>
+        <line>Ariles, muy bien ariles, ariles de la <assoc type="earth" image="cove"
+                >ensenada</assoc></line>
         <line>Yo también fui marinero de agua dulce y salada</line>
-        <line>Ariles, mi bien, ariles, ariles del mar abierto</line>
+        <line>Ariles, mi bien, ariles, ariles del <assoc type="water" image="sea">mar
+                abierto</assoc></line>
         <line>No sigo ninguna seña, es libre mi pensamiento</line>
     </verse>
 
     <chorus>
         <line>Ariles, muy bien ariles, no sabemos dónde está</line>
-        <line>En toda la tierra entera, son tiempos de oscuridad</line>
+        <line>En toda <assoc type="earth">la tierra entera</assoc>, son tiempos de oscuridad</line>
         <line>Ariles, muy bien ariles, sonido de tu sandalias cuando caminas, bonita</line>
         <line>Mi amada y dulce, Natalia</line>
     </chorus>
 
     <verse>
         <line>Les presento una muchacha que su esencia es de luz</line>
-        <line>Cara linda, lindos ojos y viene de Veracruz</line>
+        <line>Cara linda, lindos ojos y viene de <place>Veracruz</place></line>
         <line>Con su voz y su guitarra siempre trae felicidades</line>
         <line>Recibamos con aplausos a Natalia Lafourcade (Olé)</line>
     </verse>
@@ -49,14 +53,15 @@
         <line>Qué me gusta el Balajú, nada más por su sonido</line>
         <line>Nada más por su sonido, qué me gusta el Balajú</line>
         <line>También el pájaro cu, y el de la cinta morada</line>
-        <line>Pero más mi Veracruz, tierra bendita y amada</line>
+        <line>Pero más mi <place>Veracruz</place>, <assoc type="earth">tierra bendita y
+                amada</assoc></line>
     </verse>
 
     <chorus>
         <line>Ariles y más ariles, ariles de aquel que fue</line>
         <line>A darle agua a su caballo y se le murió de sed</line>
-        <line>Aires y más ariles, aires del carrizalA darle agua a su caballo y se le murió de
-            sed</line>
+        <line>Aires y más ariles, aires del carrizal</line>
+        <line>A darle agua a su caballo y se le murió de sed</line>
         <line>Me picaron las abejas, pero me comí el panal, ay, ay</line>
     </chorus>
 
@@ -85,10 +90,11 @@ this song includes two distinct songs, we should add something to the schema to 
     <verse>
         <line>Dicen que pa' conseguirte</line>
         <line>Necesito una fortuna</line>
-        <line>Que debo bajar del cielo</line>
-        <line>Las estrellas y la luna</line>
-        <line>Yo no bajaré la luna</line>
-        <line>Ni las estrellas tampoco</line>
+        <line>Que debo bajar del <assoc type="space" image="sky">cielo</assoc></line>
+        <line>Las <assoc type="space" image="stars">estrellas</assoc> y la <assoc type="space"
+                image="moon">luna</assoc></line>
+        <line>Yo no bajaré la <assoc type="space" image="moon">luna</assoc></line>
+        <line>Ni las <assoc type="space" image="stars">estrellas</assoc> tampoco</line>
         <line>Y aunque no tengo fortuna</line>
         <line>Me querrás poquito a poco</line>
     </verse>
