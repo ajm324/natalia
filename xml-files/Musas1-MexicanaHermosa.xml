@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig="orig">
+    <meta>
+        <album>musas-01</album>
+        <title>Mexicana Hermosa</title>
+        <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
+        <features>Los Macorinos</features>
+        <style>Huapango</style>
+        <location>Mexico</location>
+    </meta>
+    <verse>
+        <line><place>Mexicana</place> hermosa, bandera latina</line>
+        <line>No te pongas triste, solo mira al <assoc type="space" image="sky">cielo</assoc></line>
+        <line>Si <assoc type="space" image="stars">la noche se cubre de estrellas</assoc></line>
+        <line>Ya nosotros pasamos el duelo</line>
+        <line>Si la noche se cubre de estrellas</line>
+        <line>Ya nosotros calmamos la pena</line>
+    </verse>
+    <chorus>
+        <line>No te pongas triste, solo mira al <assoc type="space" image="sky">cielo</assoc></line>
+        <line>Que la <assoc type="earth" image="night">noche</assoc> es buena pa reconciliar los <assoc type="spirit" image="dreams">sueños</assoc></line>
+        <line>No te pongas triste, que tus ojos negros</line>
+        <line>Son la llama inquieta, dulce ardor en mi consuelo</line>
+    </chorus>
+    <verse>
+        <line><place>Mexicana</place> hermosa, morena bendita</line>
+        <line>En tus ojos negros doblo mis apuestas</line>
+        <line>Hoy tu <assoc type="earth" image="land">tierra</assoc> marchita y eterna</line>
+        <line>Ve nacer toda <assoc type="earth" image="light">luz</assoc> en su cuesta</line>
+        <line>Hoy tu <assoc type="earth" image="land">tierra</assoc> marchita y eterna</line>
+        <line>Roba besos y da primaveras</line>
+    </verse>
+    <chorus>
+        <line>No te pongas triste, solo mira al <assoc type ="space" image="sky">cielo</assoc></line>
+        <line>Que la <assoc type="earth" image="night">noche</assoc> es buena pa reconciliar los <assoc type="spirit" image="dreams">sueños</assoc></line>
+        <line>No te pongas triste, que tus ojos negros</line>
+        <line>Son la llama inquieta, dulce ardor en mi consuelo</line>
+    </chorus>
+    <verse>
+        <line><place>Mexicana</place> mía, preciosa María</line>
+        <line>No te olvides nunca que eres poderosa</line>
+        <line>A tu manto, pasión colorida</line>
+        <line>Yo le canto mi copla y mi prosa</line>
+        <line>Que a tu manto, pasión colorida</line>
+        <line>Yo le canto pa toda la vida</line>
+    </verse>
+</song>
