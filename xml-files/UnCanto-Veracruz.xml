@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig = "cover">
+<meta>
+    <album>canto-01</album>
+    <title>Veracruz</title>
+    <writers>Agustín Lara</writers>
+    <location>México</location>
+</meta>
+
+<verse>
+<line>Yo nací con <assoc type = "space" image = "moon">la luna de plata</assoc></line>
+<line>Y nací­ con <assoc type = "spirit" image = "soul">alma de pirata</assoc></line>
+<line>He nacido rumbero jarocho</line>
+<line>Trovador de veras</line>
+<line>Y me fui lejos de <place>Veracruz</place></line>
+</verse>
+
+<chorus>
+<line><place>Veracruz</place>, rinconcito donde hacen su nido <assoc type = "water" image = "sea">las olas del mar</assoc></line>
+<line><place>Veracruz</place>, <assoc type = "spirit" image = "country">pedacito de patria</assoc> que sabe sufrir y cantar</line>
+<line><place>Veracruz</place>, son tus <assoc type = "space" image = "stars">noches diluvio de estrellas</assoc>, <assoc type = "earth" image = "palm">palmera</assoc> y mujer</line>
+<line><place>Veracruz</place> <assoc type = "spirit" image = "being">vibra en mi ser</assoc></line>
+<line>Algún dí­a hasta <assoc type = "earth" image = "beach">tus playas</assoc> lejanas tendré que volver</line>
+</chorus>
+
+<bridge>
+<line>Larararararai-rerere</line>
+<line>Lararara</line>
+</bridge>
+
+<chorus>
+<line><place>Veracruz</place>, son <assoc type = "space" image = "stars">tus noches diluvio de estrellas</assoc>, <assoc type = "earth" image = "palm">palmera</assoc> y mujer</line>
+<line><place>Ve-e-e-eracruz</place> <assoc type = "spirit" image = "being">vibra en mi ser</assoc></line>
+<line>Algún dí­a hasta <assoc type = "earth" image = "beach">tus playas</assoc> lejanas tendré que volver</line>
+</chorus>
+</song>
