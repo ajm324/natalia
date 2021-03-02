@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+<meta>
+    <album>musas-02</album>
+    <title>Alma Mía</title>
+    <writers>Maria Grever</writers>
+    <features>Los Macorinos</features>
+    <style>Huapango</style>
+    <location></location>
+</meta>
+
+<verse>
+<line><assoc type = "spirit" image = "soul">Alma mía sola</assoc></line>
+<line>Siempre sola</line>
+<line>Sin que nadie comprenda tu sufrimiento</line>
+<line>Tu horrible padecer</line>
+
+<line>Fingiendo una existencia siempre llena</line>
+<line>De dicha y de placer</line>
+<line>De dicha y de placer</line>
+</verse>
+
+<verse>
+<line><assoc type = "spirit" image = "soul">Si yo encontrara un alma como la mía</assoc></line>
+<line>Cuantas cosas secretas le contaría</line>
+<line>Un alma que al mirarme, sin decir nada</line>
+<line>Me lo dijese todo con la mirada</line>
+</verse>
+
+<chorus>
+<line><assoc type = "spirit" image = "soul">Un alma que embriagase con suave aliento</assoc></line>
+<line>Que al besarme sintiera lo que yo siento</line>
+<line>Y a veces me pregunto qué pasaría</line>
+<line>Si yo encontrara un alma como la mía</line>
+</chorus>
+
+<bridge>
+<line>Un alma que al mirarme, sin decir nada</line>
+<line>Me lo dijese todo con la mirada    </line>
+</bridge>
+
+<chorus>
+<line>Un alma que embriagase con suave aliento</line>
+<line>Que al besarme sintiera lo que yo siento</line>
+<line>Y a veces me pregunto qué pasaría</line>
+<line>Si yo encontrara un alma como la mía</line>
+</chorus>
+</song>
