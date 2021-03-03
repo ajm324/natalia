@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig = "orig">
+    <meta>
+        <album>musas-02</album>
+        <title>Duerme negrito</title>
+        <writers>Atahualpa Yupanqui</writers>
+        <features>Los Macorinos</features>
+        <style>Huapango</style>
+    </meta>
+
+<chorus>
+<line>Duerme, duerme, negrito</line>
+<line>Que tu mamá está en el <assoc type = "earth" image = "field">campo</assoc>, negrito</line>
+<line>Duerme, duerme, negrito</line>
+<line>Que tu mamá está en el campo, negrito</line>
+</chorus>
+    
+<chorus>
+<line>Te va a traer <assoc type = "earth" image = "quail">codornices para ti</assoc></line>
+<line>Te va a traer rica <assoc type = "earth" image = "fruit">fruta</assoc> para ti</line>
+<line>Te va a traer <assoc type = "earth" image = "pork">carne de cerdo</assoc> para ti</line>
+<line>Te va a traer tanta cosa para ti</line>
+</chorus>
+    
+<verse>
+<line>Y si el negro no se duerme</line>
+<line>Viene el <assoc type = "spirit" image = "white devil">diablo blanco</assoc></line>
+<line>Viene el <assoc type = "spirit" image = "white devil">diablo blanco</assoc></line>
+<line>Viene el <assoc type = "spirit" image = "white devil">diablo blanco</assoc></line>
+<line>¡Y zas! Le come la patita</line>
+<line>Chacapumba, chacapumba, chacapumba, chacapumba</line>
+<line>Chacapumba, chacapumba, chacapumba, chacapumba</line>
+<line>Duerme, duerme, negrito</line>
+<line>Que tu mamá está en el campo, negrito</line>
+</verse>
+    
+<bridge>
+<line>Trabajando</line>
+<line>Trabajando</line>
+<line>Trabajando</line>
+<line>Trabajando</line>
+</bridge>
+
+<chorus>
+<line>Te va a traer <assoc type = "earth" image = "quail">codornices para ti</assoc> para ti</line>
+<line>Te va a traer rica <assoc type = "earth" image = "fruit">fruta</assoc> para ti</line>
+<line>Te va a traer <assoc type = "earth" image = "pork">carne de cerdo</assoc> para ti</line>
+<line>Te va a traer tanta cosa para ti</line>
+</chorus>
+    
+<chorus>
+<line>Duerme, duerme, negrito</line>
+<line>Que tu mamá está en el campo, negrito</line>
+</chorus>
+    
+<verse>
+<line>Trabajando duramente, trabajando sí</line>
+<line>Trabajando y no le pagan, trabajando sí</line>
+<line>Trabajando y va tosiendo, trabajando sí</line>
+<line>Trabajando y va de luto, trabajando sí</line>
+</verse>
+    
+<outro>
+<line>Pa' el negrito chiquitito</line>
+<line>Trabajando sí</line>
+<line>Pa' el negrito chiquitito</line>
+<line>Trabajando sí</line>
+<line>No le pagan, sí</line>
+<line>No le para, sí</line>
+<line>Trabajando duramente</line>
+<line>Trabajando</line>
+<line>Trabajando</line>
+<line>Trabajando</line>
+<line>Trabajando</line>
+</outro>
+    
+</song>

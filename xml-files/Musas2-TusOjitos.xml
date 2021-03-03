@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig = "cover">
+    <meta>
+        <album>musas-02</album>
+        <title>Tus Ojitos (Vals de la Vieja Guardia)</title>
+        <features>Los Macorinos</features>
+        <style>Huapango</style>
+    </meta>
+    
+<verse>
+<line>Tus ojitos que contemplo con delirio</line>
+<line>Tus ojitos que contemplo con delirio</line>
+<line>Yo los quiero y los adoro con empeño</line>
+<line>Tienen la palidez de mi martirio</line>
+<line>Y la dulce mirada del <assoc type = "spirit" image = "dreams">ensueño</assoc></line>
+<line>¡Ay! Y la dulce mirada del ensueño</line>
+</verse>
+
+<verse>
+<line>Es por eso que siempre me enamoran</line>
+<line>En el fondo del <assoc type = "spirit" image = "soul">alma</assoc> me embelesan</line>
+<line>Me hacen llorar de pena cuando lloran</line>
+<line>Y me llenan de amor cuando me miran</line>
+<line>¡Ay! Y me llenan de amor cuando me miran</line>
+</verse>
+    
+<verse>
+<line>Bendito es el amor, bendito sea</line>
+<line>Bendito es el amor, bendito sea</line>
+<line>¡Oh, imagen adorada del ensueño!</line>
+<line>Deja que con mi canto tu <assoc type = "spirit" image = "soul">alma</assoc> sepa</line>
+<line>Cómo yo te adoro con empeño</line>
+<line>¡Ay! Bendito es el amor, bendito sea</line>
+</verse>
+
+<verse>
+<line>Es por eso que que siempre me enamoran</line>
+<line>En el fondo del <assoc type = "spirit" image = "soul">alma</assoc> me embelesan</line>
+<line>Me hacen llorar de pena cuando lloran</line>
+<line>Y me llenan de amor cuando me miran</line>
+<line>¡Ay! Y me llenan de amor cuando me miran</line>
+</verse>
+
+</song>

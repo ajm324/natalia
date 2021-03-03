@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig = "orig">
+    <meta>
+        <album>musas-02</album>
+        <title>Hoy Es Mi Día Uno</title>
+        <writers>Natalia Lafourcade</writers>
+        <features>Los Macorinos</features>
+        <style>Huapango</style>
+    </meta>
+
+<verse>
+<line>Siento que hoy empieza todo, lo llamaría mi día uno</line>
+<line>Tengo vacías las manos, no existe nada en mi futuro</line>
+<line>Ando caminando así descalza, viva y alerta en todos los sentidos</line>
+<line>Y ahora no encuentro las palabras para agradecer lo que viví contigo</line>
+</verse>
+    
+<chorus> 
+<line>Hoy mi día uno quiero comenzar un nuevo ciclo</line>
+<line>Una oportunidad</line>
+<line>Otro destino</line>
+
+<line>Hoy solo deseo que tengas bienestar</line>
+<line>A mi presente quiero abrazar</line>
+<line>Y comenzar otro capítulo</line>
+</chorus>
+    
+<bridge>
+<line>Siento que hoy empieza todo</line>
+<line>Lo llamaría mi día uno</line>
+<line>Tengo abrazados mis miedos</line>
+<line>Y seguridades ya no están conmigo</line>
+</bridge>
+    
+<chorus>
+<line>Ando caminando sin respuestas</line>
+<line>Viva la vida aunque duela a cada paso</line>
+<line>Es que no podía yo quererte</line>
+<line>En el mismo tiempo en que adoré a mi musa</line>
+<line>Es que no podía yo quererte</line>
+<line>En el mismo tiempo en que adoré</line>
+</chorus>
+    
+<chorus>
+<line>Hoy mi día uno quiero comenzar</line>
+<line>Un nuevo ciclo una oportunidad</line>
+<line>Otro destino</line>
+
+<line>Hoy solo deseo que tengas bienestar</line>
+<line>A mi presente quiero abrazar</line>
+<line>Y comenzar otro capítulo</line>
+</chorus>
+
+<chorus>
+<line>Ando caminando sin respuestas</line>
+<line>Viva la vida aunque duela a cada paso</line>
+<line>Es que no podía yo quererte</line>
+<line>En el mismo tiempo en que adoré a mi musa</line>
+<line>Es que no podía yo entregarme</line>
+<line>En el mismo tiempo en que adoré a mi musa</line>
+<line>Es que no podía yo quererte</line>
+<line>En el mismo tiempo en que adoré a mi musa</line>
+</chorus>
+</song>

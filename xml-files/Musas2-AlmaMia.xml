@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<song orig = "orig">
 <meta>
     <album>musas-02</album>
     <title>Alma Mía</title>
     <writers>Maria Grever</writers>
     <features>Los Macorinos</features>
     <style>Huapango</style>
-    <location></location>
 </meta>
 
 <verse>
@@ -37,7 +36,7 @@
 
 <bridge>
 <line><assoc type = "spirit" image = "soul">Un alma que al mirarme, sin decir nada</assoc></line>
-<line>Me lo dijese todo con la mirada    </line>
+<line>Me lo dijese todo con la mirada</line>
 </bridge>
 
 <chorus>

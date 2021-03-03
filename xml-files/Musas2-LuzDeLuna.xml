@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig = "orig">
+    <meta>
+        <album>musas-02</album>
+        <title>Luz De Luna</title>
+        <writers>Álvaro Carrillo</writers>
+        <features>Los Macorinos</features>
+        <style>Huapango</style>
+    </meta>
+
+<verse>
+<line>Yo quiero <assoc type = "space" image = "moonlight">luz de luna</assoc></line>
+<line>Para mi noche triste</line>
+<line>Para pensar <assoc type = "spirit" image = "divine">divina</assoc></line>
+<line>La ilusión que me trajiste</line>
+<line>Para sentirte mía</line>
+<line>Mía tú como ninguna</line>
+</verse>
+
+<chorus>
+<line>Pues desde que te fuiste</line>
+<line>No he tenido <assoc type = "space" image = "moonlight">luz de luna</assoc></line>
+<line>Pues desde que te fuiste</line>
+<line>No he tenido <assoc type = "space" image = "moonlight">luz de luna</assoc></line>
+</chorus>
+
+<verse>
+<line>Yo siento tus amarras</line>
+<line>Como garfios, como garras</line>
+<line>Que me ahogan en la <assoc type = "earth" image = "beach">playa</assoc></line>
+<line>De la farra y del dolor</line>
+<line>Si llevo tus cadenas a rastras</line>
+<line>En la <assoc type = "space" image = "night">noche</assoc> callada</line>
+<line>Que sea plenilunada</line>
+<line>Azul como ninguna</line>
+</verse>
+
+<chorus>
+<line>Pues desde que te fuiste</line>
+<line>No he tenido luz de luna</line>
+<line>Pues desde que te fuiste</line>
+<line>No he tenido luz de luna</line>
+</chorus>
+
+<verse>
+<line>Si ya no vuelves nunca</line>
+<line>Provincianita mía</line>
+<line>A mi selva querida</line>
+<line>Que está triste y está fría</line>
+<line>Que al menos tu recuerdo</line>
+<line>Ponga luz sobre mi bruma</line>
+</verse>
+
+<chorus>
+<line>Pues desde que te fuiste</line>
+<line>No he tenido <assoc type = "space" image = "moonlight">luz de luna</assoc></line>
+<line>Pues desde que te fuiste</line>
+<line>No he tenido <assoc type = "space" image = "moonlight">luz de luna</assoc></line>
+</chorus>
+
+<verse>
+<line>Yo siento tus amarras</line>
+<line>Como garfios, como garras</line>
+<line>Que me ahogan en <assoc type = "earth" image = "beach">playa</assoc></line>
+<line>De la farra y del dolor</line>
+<line>Si llevo tus cadenas a rastras</line>
+<line>En la <assoc type = "space" image = "night">noche</assoc> callada</line>
+<line>Que sea plenilunada</line>
+<line>Azul como ninguna</line>
+</verse>
+
+<chorus>
+<line>Pues desde que te fuiste</line>
+<line>No he tenido <assoc type = "space" image = "moonlight">luz de luna</assoc></line>
+<line>Pues desde que te fuiste</line>
+<line>No he tenido <assoc type = "space" image = "moonlight">luz de luna</assoc></line>
+</chorus>
+    
+</song>

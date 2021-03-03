@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<song orig = "orig">
 <meta>
     <album>musas-02</album>
     <title>Danza De Gardenias</title>
     <writers>Natalia Lafourcade, David Aguilar</writers>
     <features>Los Macorinos</features>
+    <style>Huapango</style>
 </meta>
    
 <verse>
