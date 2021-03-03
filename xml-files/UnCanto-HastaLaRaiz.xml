@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+<meta>
+    <album>canto-01</album>
+    <title>Hasta La Raíz(2020)</title>
+    <writers>Natalia LAfourcade, Leonel García</writers>
+    <features>Los Cojolites, Los Auténticos Decadentes</features>
+</meta>
+
+<verse>
+<line>Sigo cruzando <assoc type = "water" image = "river">ríos</assoc></line>
+<line>Andando <assoc type = "earth" image = "jungle">selvas</assoc></line>
+<line>Amando el sol</line>
+<line>Cada día sigo sacando espinas</line>
+<line>De lo profundo del corazón</line>
+<line>En la noche sigo <assoc type = "spirit" image = "dreams">encendiendo sueños</assoc></line>
+<line>Para limpiar con el humo sagrado</line>
+<line>Cada recuerdo</line>
+</verse>
+
+<verse>
+<line>Cuando escribo tu nombre</line>
+<line>En la <assoc type = "earth" image = "sand">arena blanca</assoc> con fondo azul</line>
+<line>Cuando miro al <assoc type = "space" image = "sky">cielo</assoc></line>
+<line>En la forma cruel de una <assoc type = "space" image = "cloud">nube gris</assoc></line>
+<line>Aparezcas tú</line>
+<line>Una tarde subo una <assoc type = "earth" image = "hill">alta loma</assoc></line>
+<line>Mire el pasado</line>
+<line>Sabrás que no te he olvidado</line>
+</verse>
+
+<chorus>
+<line>Yo te llevo dentro, <assoc type="earth" image="root">hasta la raíz</assoc></line>
+<line>Y por más que crezca, vas a estar aquí</line>
+<line>Aunque yo me oculte <assoc type = "earth" image="mountain">tras la montaña</assoc></line>
+<line>Y encuentre un <assoc type = "earth" image = "cane field">campo lleno de caña</assoc></line>
+<line>No habrá manera, <assoc type = "space" image = "moon">mi rayo de luna</assoc></line>
+<line>Que tú te vayas</line>
+</chorus>
+
+<post-chorus>
+<line>Wo, uh, oh, oh, oh</line>
+<line>Wo, oh, oh, oh, oh</line>
+<line>Wu, oh, oh, oh</line>
+<line>Wu, oh, oh, oh</line>
+</post-chorus>
+
+<verse>
+<line>Pienso que cada instante</line>
+<line>Sobrevivido al caminar</line>
+<line>Y cada segundo de incertidumbre</line>
+<line>Cada momento de no saber</line>
+<line>Son la clave exacta de ese tejido</line>
+<line>Que ando cargando bajo la piel</line>
+<line>Así te protejo</line>
+<line>Aquí sigues dentro</line>
+</verse>
+
+<chorus>
+<line>Yo te llevo dentro, <assoc type = "earth" image = "root">hasta la raíz</assoc></line>
+<line>Y por más que crezca, vas a estar aquí</line>
+<line>Aunque yo me oculte <assoc type = "earth" image = "mountain">tras la montaña</assoc></line>
+<line>Y encuentre un <assoc type = "earth" image = "cane field">campo lleno de caña</assoc></line>
+<line>No habrá manera, <assoc type = "space" image = "moon">mi rayo de luna</assoc></line>
+<line>Que tú te vayas</line>
+</chorus>
+
+<chorus>
+<line>Yo te llevo dentro, <assoc type = "earth" image = "root">hasta la raíz</assoc></line>
+<line>Y por más que crezca, vas a estar aquí</line>
+<line>Aunque yo me oculte <assoc type = "earth" image = "mountain">tras la montaña</assoc></line>
+<line>Y encuentre un <assoc type = "earth" image = "cane field">campo lleno de caña</assoc></line>
+<line>No habrá manera, <assoc type = "space" image = "moon">mi rayo de luna</assoc></line>
+<line>Que tú te vayas</line>
+</chorus>
+
+<post-chorus>
+<line>Wo, oh, oh, oh</line>
+<line>Wo, uh, oh, oh</line>
+<line>Wu, oh, oh, oh, oh</line>
+<line>Wo, oh, oh</line>
+<line>Wo, oh, oh, oh, oh</line>
+<line>Wu, oh, oh, oh, oh</line>
+<line>Wu, oh, oh, oh, uh, oh, uh, oh</line>
+<line>Wu, oh</line>
+</post-chorus>
+
+<outro>
+<line>Yo te llevo dentro</line>
+<line>(Yo te llevo dentro)</line>
+<line>Yo te llevo dentro</line>
+<line>(Yo te llevo dentro)</line>
+<line>Yo te llevo dentro</line>
+<line>(Yo te llevo dentro)</line>
+<line><assoc type = "earth" image = "root">Hasta la raíz</assoc></line>
+
+<line>Yo te llevo dentro</line>
+<line>(Yo te llevo dentro)</line>
+<line>Yo te llevo dentro</line>
+<line>(Yo te llevo dentro)</line>
+<line>Yo te llevo dentro</line>
+<line>(Yo te llevo dentro)</line>
+<line><assoc type = "earth" image = "root">Hasta la raíz</assoc></line>
+
+
+<line>Aunque yo me oculte <assoc type = "earth" image = "mountain">tras la montaña</assoc></line>
+<line>Y encuentre un <assoc type = "earth" image = "cane field">campo lleno de caña</assoc></line>
+<line>No habrá manera, <assoc type = "space" image = "moon">mi rayo de luna</assoc></line>
+<line>Que tú te vayas</line>
+
+<line>Aunque yo me oculte <assoc type = "earth" image = "mountain">tras la montaña</assoc></line>
+<line>Y encuentre un <assoc type = "earth" image = "cane field">campo lleno de caña</assoc></line>
+<line>No habrá manera, <assoc type = "space" image = "moon">mi rayo de luna</assoc></line>
+<line>Que tú te vayas</line>
+
+<line>Aunque yo me oculte</line>
+<line><assoc type = "earth" image = "mountain">Tras la montaña</assoc></line>
+<line>No habrá manera, <assoc type = "space" image = "moon">mi rayo de luna</assoc></line>
+<line>Que tú te vayas</line>
+
+<line>Aunque yo me oculte</line>
+<line>(Yo te llevo dentro)</line>
+<line><assoc type = "earth" image = "mountain">Tras la montaña</assoc></line>
+<line>(Yo te llevo dentro)</line>
+<line>Y encuentre <assoc type = "earth" image = "field">un campo</assoc></line>
+<line>(Yo te llevo dentro)</line>
+<line>Lleno de caña</line>
+<line>(Yo te llevo dentro)</line>
+<line>Yo te llevo</line>
+<line><assoc type = "earth" image = "root">Hasta la raíz</assoc></line>
+</outro>
+</song>

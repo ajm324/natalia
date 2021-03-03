@@ -6,20 +6,18 @@
     <title>Danza De Gardenias</title>
     <writers>Natalia Lafourcade, David Aguilar</writers>
     <features>Los Macorinos</features>
-    <style>Huapango</style>
-    <location></location>
 </meta>
    
 <verse>
 <line>Hoy</line>
-<line><assoc type = "earth" image = "pigeon">Palomito blanco</assoc></line>
+<line><assoc type = "earth" image = "dove">Palomito blanco</assoc></line>
 <line>No le llores tanto</line>
-<line><assoc type = "earth" image = "pigeon">A tú paloma negra</assoc></line>
+<line><assoc type = "earth" image = "dove">A tú paloma negra</assoc></line>
 <line>Marisol morena siempre te amará</line>
 <line>Hoy</line>
 <line>Ese tuyo llanto se convierte</line>
 <line>En canto y va a ser escuchado</line>
-<line><assoc type = "space" image = "sky">Por el cielo, y pronto</assoc></line>
+<line><assoc type = "space" image = "sky">Por el cielo</assoc>, y pronto</line>
 <line>Libre volarás</line>
 </verse>
 
@@ -38,13 +36,13 @@
     
 <verse>
 <line>Tú</line>
-<line><assoc type = "earth" image = "pigeon">Palomito blanco</assoc></line>
+<line><assoc type = "earth" image = "dove">Palomito blanco</assoc></line>
 <line>Que entregaste tanto</line>
-<line><assoc type = "earth" image = "pigeon">Tu paloma negra</assoc> dejará una estela</line>
+<line><assoc type = "earth" image = "dove">Tu paloma negra</assoc> dejará una estela</line>
 <line>Que te alumbrará</line>
 <line>Hoy</line>
 <line>Ese tuyo llanto</line>
-<line>Se convierte en río</line>
+<line>Se <assoc type = "water" image = "river">convierte en río</assoc></line>
 <line>De tus ojos santos</line>
 <line><assoc type = "earth" image = "flower">Y una flor marchita reflorecerá</assoc></line>
 </verse>
@@ -53,7 +51,7 @@
 <line>Florecerá, Florecerá</line>
 <line>Ese antiguo encanto dentro de tu pecho reflorecerá</line>
 <line>Florecerá, Florecerá</line>
-<line><assoc type = "earth" image = "flower">Una danza llena de gardenias plenas reflorecerá</assoc></line>
+<line><assoc type = "earth" image = "flower">Una danza llena de gardenias</assoc> plenas reflorecerá</line>
 </chorus>
 
 <verse>
@@ -73,19 +71,19 @@
 <line>Florecerá, Florecerá</line>
 <line>Ese antiguo encanto dentro de tu pecho reflorecerá</line>
 <line>Florecerá, Florecerá</line>
-<line>Una danza llena de gardenias plenas reflorecerá</line>
+<line><assoc type = "earth" image = "flower">Una danza llena de gardenias</assoc> plenas reflorecerá</line>
 </chorus>
 
 <verse>
 <line>(Florecerá, florecerá)</line>
-<line><assoc type = "earth" image = "trail">Una danza de gardenias plenas</assoc></line>
+<line>Una danza de gardenias plenas</line>
 <line>Que dejaron estala que te alumbra</line>
 <line>En ese antiguo encanto</line>
 <line>Que en tu pecho reflorecerá</line>
 <line>(Florecerá, florecerá)</line>
 <line>Un danza llena de gardenias plenas reflorecerá</line>
 <line>(Florecerá, florecerá)</line>
-<line>Que tu paloma negra</line>
+<line>Que tu <assoc type = "earth" image = "dove">paloma negra</assoc></line>
 <line>Tu Marisol morena te amará, te amará</line>
 <line>Reflorecerá</line>
 </verse>
@@ -94,7 +92,7 @@
 <line>Florecerá, florecerá</line>
 <line>Ese antiguo encanto dentro de tu pecho reflorecerá</line>
 <line>Florecerá, florecerá</line>
-<line>Un danza llena de gardenias plenas reflorecerá</line>
+<line><assoc type = "earth" image = "flower">Un danza llena de gardenias</assoc> plenas reflorecerá</line>
 </chorus>
 
 </song>

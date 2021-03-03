@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
 <song orig = "orig">
 <meta> 
     <album>canto-01</album>
@@ -7,68 +8,68 @@
 </meta>
     
 <verse>
-Quiero dedicarte esta canción
-Y decir salud para nosotros
-Porque eres valiente al regresar
-Palomito cantor
-Aunque sé que hay heridas en tu inmenso corazón
-Ahora son benditas
+<line>Quiero dedicarte esta canción</line>
+<line>Y decir salud para nosotros</line>
+<line>Porque eres valiente al regresar</line>
+<line>Palomito cantor</line>
+<line>Aunque sé que hay heridas en tu inmenso corazón</line>
+<line>Ahora son benditas</line>
 
 
-Hoy quisiera regalarte el sol
-Y que en cada ola la marea
-Limpie las memorias del dolor
-De este amargo dolor
-Que hoy nos ha enseñado
-Una vida solo hay para reencontrarnos
+<line>Hoy quisiera regalarte el sol</line>
+<line>Y que en <assoc type = "water" image = "wave">cada ola</assoc> la marea</line>
+<line>Limpie las memorias del dolor</line>
+<line>De este amargo dolor</line>
+<line>Que hoy nos ha enseñado</line>
+<line>Una vida solo hay para reencontrarnos</line>
 </verse>
     
 
 <chorus>
-Una vida solo hay
-Una vida solo hay para perdonarnos
-Una vida solo hay para darlo todo
-Una vida solo hay para dar sonrisas
-Una vida solo hay, una vida
-Una vida para volver a amarnos
+<line>Una vida solo hay</line>
+<line>Una vida solo hay para perdonarnos</line>
+<line>Una vida solo hay para darlo todo</line>
+<line>Una vida solo hay para dar sonrisas</line>
+<line>Una vida solo hay, una vida</line>
+<line>Una vida para volver a amarnos</line>
 </chorus>
 
 <verse>
-Quiero confesarte una vez más
-No es cuestión de engaños ni traiciones
-Fue que nos soltamos y el vacío de mi solo corazón
-A los dos quiso tenernos, tan prohibido fue el amor
-Como inevitable hacerlo
+<line>Quiero confesarte una vez más</line>
+<line>No es cuestión de engaños ni traiciones</line>
+<line>Fue que nos soltamos y el vacío de mi solo corazón</line>
+<line>A los dos quiso tenernos, tan prohibido fue el amor</line>
+<line>Como inevitable hacerlo</line>
 </verse>
 
 
 <chorus>
-Una vida solo hay
-Una vida solo hay para perdonarnos
-Una vida solo hay para darlo todo
-Una vida solo hay para dar sonrisas
-Una vida solo hay, una vida
-Una vida para volver a amarnos
+<line>Una vida solo hay</line>
+<line>Una vida solo hay para perdonarnos</line>
+<line>Una vida solo hay para darlo todo</line>
+<line>Una vida solo hay para dar sonrisas</line>
+<line>Una vida solo hay, una vida</line>
+<line>Una vida para volver a amarnos</line>
 </chorus>
 
 <bridge>
-Hoy te quiero querer
-Así quedito y con calma
-Con esa calma que no tuvimos ayer
-Ahora lo reconozco profundamente, me equivoqué
-Sé que te fallé, hasta te perdí
-Pareciera ser que tanto dolor y tanto sufrir valió la pena
+<line>Hoy te quiero querer</line>
+<line>Así quedito y con calma</line>
+<line>Con esa calma que no tuvimos ayer</line>
+<line>Ahora lo reconozco profundamente, me equivoqué</line>
+<line>Sé que te fallé, hasta te perdí</line>
+<line>Pareciera ser que tanto dolor y tanto sufrir valió la pena</line>
 </bridge>
 
 <chorus>
-Una vida solo hay
-Una vida solo hay para perdonarnos
-Una vida solo hay para darlo todo
-Una vida solo hay para dar sonrisas
-Una vida solo hay, una vida
-Una vida para volver a amarnos
+<line>Una vida solo hay</line>
+<line>Una vida solo hay para perdonarnos</line>
+<line>Una vida solo hay para darlo todo</line>
+<line>Una vida solo hay para dar sonrisas</line>
+<line>Una vida solo hay, una vida</line>
+<line>Una vida para volver a amarnos</line>
 
-Quiero dedicarte esta canción
-Porque aún te amo
+<line>Quiero dedicarte esta canción</line>
+<line>Porque aún te amo</line>
 </chorus>
 </song>

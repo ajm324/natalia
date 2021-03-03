@@ -6,15 +6,14 @@
         <title>Mexicana Hermosa</title>
         <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
         <features>Los Macorinos</features>
-        <style>Huapango</style>
-        <location>Mexico</location>
+        <location>México</location>
     </meta>
     <verse>
-        <line><place>Mexicana</place> hermosa, bandera latina</line>
+        <line><place>Mexicana</place> hermosa, <assoc type = "country" image = "flag">bandera latina</assoc></line>
         <line>No te pongas triste, solo mira al <assoc type="space" image="sky">cielo</assoc></line>
         <line>Si <assoc type="space" image="stars">la noche se cubre de estrellas</assoc></line>
         <line>Ya nosotros pasamos el duelo</line>
-        <line>Si la noche se cubre de estrellas</line>
+        <line>Si <assoc type = "space" image = "stars">la noche se cubre de estrellas</assoc></line>
         <line>Ya nosotros calmamos la pena</line>
     </verse>
     <chorus>
@@ -27,7 +26,7 @@
         <line><place>Mexicana</place> hermosa, morena bendita</line>
         <line>En tus ojos negros doblo mis apuestas</line>
         <line>Hoy tu <assoc type="earth" image="land">tierra</assoc> marchita y eterna</line>
-        <line>Ve nacer toda <assoc type="earth" image="light">luz</assoc> en su cuesta</line>
+        <line>Ve nacer toda luz en su cuesta</line>
         <line>Hoy tu <assoc type="earth" image="land">tierra</assoc> marchita y eterna</line>
         <line>Roba besos y da primaveras</line>
     </verse>

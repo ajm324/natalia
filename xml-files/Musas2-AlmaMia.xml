@@ -22,7 +22,7 @@
 </verse>
 
 <verse>
-<line><assoc type = "spirit" image = "soul">Si yo encontrara un alma como la mía</assoc></line>
+<line>Si yo encontrara <assoc type = "spirit" image = "soul">un alma como la mía</assoc></line>
 <line>Cuantas cosas secretas le contaría</line>
 <line>Un alma que al mirarme, sin decir nada</line>
 <line>Me lo dijese todo con la mirada</line>
@@ -32,18 +32,18 @@
 <line><assoc type = "spirit" image = "soul">Un alma que embriagase con suave aliento</assoc></line>
 <line>Que al besarme sintiera lo que yo siento</line>
 <line>Y a veces me pregunto qué pasaría</line>
-<line>Si yo encontrara un alma como la mía</line>
+<line>Si yo encontrara <assoc type = "spirit" image = "soul">un alma como la mía</assoc></line>
 </chorus>
 
 <bridge>
-<line>Un alma que al mirarme, sin decir nada</line>
+<line><assoc type = "spirit" image = "soul">Un alma que al mirarme, sin decir nada</assoc></line>
 <line>Me lo dijese todo con la mirada    </line>
 </bridge>
 
 <chorus>
-<line>Un alma que embriagase con suave aliento</line>
+<line><assoc type = "spirit" image = "soul">Un alma que embriagase con suave aliento</assoc></line>
 <line>Que al besarme sintiera lo que yo siento</line>
 <line>Y a veces me pregunto qué pasaría</line>
-<line>Si yo encontrara un alma como la mía</line>
+<line>Si yo encontrara <assoc type = "spirit" image = "soul">un alma como la mía</assoc></line>
 </chorus>
 </song>
