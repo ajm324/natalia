@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig = "orig">
+    <meta>
+        <album>musas-02</album>
+        <title>Eclipse</title>
+        <writers>Margarita Lecuona</writers>
+        <features>Los Macorinos</features>
+        <style>Huapango</style>
+    </meta>
+
+<verse>
+<line><assoc type = "space" image = "lunar eclipse">Eclipse de luna</assoc> en el <assoc type = "space" image = "sky>">cielo</assoc></line>
+<line>Ausencia de <assoc type = "space" image = "light">luz</assoc> en <assoc type = "water" image = "sea">el mar</assoc></line>
+<line>Sufriendo de amargo desvelo</line>
+<line>Mirando la <assoc type = "space" image = "night">noche</assoc> me puse a pensar</line>
+
+<line>Pensaba que ya no me amabas</line>
+<line>Con honda desesperación</line>
+<line>En algo que siempre eclipsaba</line>
+<line>La <assoc type = "space" image = "light">luz</assoc> de tu amor</line>
+</verse>
+    
+<verse>
+<line><assoc type = "space" image = "lunar eclipse">Eclipse de luna</assoc> en el <assoc type = "space" image = "sky>">cielo</assoc></line>
+<line>Ausencia de <assoc type = "space" image = "light">luz</assoc> en <assoc type = "water" image = "sea">el mar</assoc></line>
+<line>Tan sola con mi desconsuelo</line>
+<line>Mirando la <assoc type = "space" image = "night">noche</assoc> me puse a llorar</line>
+
+<line><assoc type = "space" image = "eclipse">Eclipse</assoc> de amor en tus labios</line>
+<line>Que ya no me quieren besar</line>
+<line>Quisiera olvidar sus agravios</line>
+<line>Y luego <assoc type = "spirit" image = "dream">soñar</assoc></line>
+</verse>
+    
+<chorus>
+<line><assoc type = "space" image = "lunar eclipse">Eclipse de luna</assoc> en el <assoc type = "space" image = "sky>">cielo</assoc></line>
+<line>Ausencia de <assoc type = "space" image = "light">luz</assoc> en <assoc type = "water" image = "sea">el mar</assoc></line>
+<line>Sufriendo de amargo desvelo</line>
+<line>Mirando la <assoc type = "space" image = "night">noche</assoc> me puse a pensar</line>
+
+<line>Pensaba que ya no me amabas</line>
+<line>Con honda desesperación</line>
+<line>En algo que siempre eclipsaba</line>
+<line>La <assoc type = "space" image = "light">luz</assoc> de tu amor</line>
+</chorus>
+    
+<verse>
+<line><assoc type = "space" image = "lunar eclipse">Eclipse de luna</assoc> en el <assoc type = "space" image = "sky>">cielo</assoc></line>
+<line>Ausencia de <assoc type = "space" image = "light">luz</assoc> en <assoc type = "water" image = "sea">el mar</assoc></line>
+<line>Tan sola con mi desconsuelo</line>
+<line>Mirando la <assoc type = "space" image = "night">noche</assoc> me puse a llorar</line>
+
+<line>Eclipse de amor en tus labios</line>
+<line>Que ya no me quieren besar</line>
+<line>Quisiera olvidar sus agravios</line>
+<line>Quisiera olvidar sus agravios</line>
+
+<line>Eclipse de amor en tus labios</line>
+<line>Que ya no me quieren besar</line>
+<line>Quisiera olvidar sus agravios</line>
+<line>Y luego soñar</line>
+</verse>
+    
+
+
+<outro>
+<line><assoc type = "space" image = "lunar eclipse">Eclipse de luna</assoc> en el cielo</line>
+<line>Ausencia de <assoc type = "space" image = "light">luz</assoc> en el <assoc type = "water" image = "sea">mar</assoc></line>
+<line><assoc type = "space" image = "lunar eclipse">Eclipse de luna</assoc> en el cielo</line>
+<line>Ausencia de <assoc type = "space" image = "light">luz</assoc> en el <assoc type = "water" image = "sea">mar</assoc></line>
+
+<line><assoc type = "space" image = "lunar eclipse">Eclipse de luna</assoc> en el cielo</line>
+<line>Ausencia de <assoc type = "space" image = "light">luz</assoc> en el <assoc type = "water" image = "sea">mar</assoc></line>
+<line><assoc type = "space" image = "lunar eclipse">Eclipse de luna</assoc> en el cielo</line>
+<line>Ausencia de <assoc type = "space" image = "light">luz</assoc></line>
+</outro>
+    
+</song>

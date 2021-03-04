@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<song orig = "cover">
+    <meta>
+        <album>musas-02</album>
+        <title>La Llorona</title>
+        <features>Los Macorinos</features>
+    </meta>
+
+<chorus>
+<line>No sé qué tienen las <assoc type = "earth" image = "flowers">flores</assoc>, Llorona</line>
+<line>Las <assoc type = "earth" image = "flowers">flores</assoc> de un camposanto</line>
+<line>No sé qué tienen las <assoc type = "earth" image = "flowers">flores</assoc>, Llorona</line>
+<line>Las <assoc type = "earth" image = "flowers">flores</assoc> de un camposanto</line>
+
+<line>Que cuando las mueve el <assoc type = "air" image = "wind">viento</assoc>, Llorona</line>
+<line>Parece que están llorando</line>
+<line>Que cuando las mueve el <assoc type = "air" image = "wind">viento</assoc>, Llorona</line>
+<line>Parece que están llorando</line>
+</chorus>
+    
+<chorus>
+<line>¡Ay de mí!, Llorona, Llorona</line>
+<line>Llorona tú eres mi chunca</line>
+<line>¡Ay de mí!, Llorona, Llorona</line>
+<line>Llorona tú eres mi chunca</line>
+</chorus>
+    
+<verse>
+<line>Me quitaran de quererte, Llorona</line>
+<line>Pero de olvidarte nunca</line>
+<line>Me quitaran de quererte, Llorona</line>
+<line>Pero de olvidarte nunca</line>
+</verse>
+    
+<chorus>
+<line>A un <assoc type = "spirit" image = "holy christ">santo Cristo</assoc> de fierro, Llorona</line>
+<line>Mis penas le conte yo</line>
+<line>A un <assoc type = "spirit" image = "holy christ">santo Cristo</assoc> de fierro, Llorona</line>
+<line>Mis penas le conte yo</line>
+
+<line>Cuales no serían mis penas, Llorona</line>
+<line>Que el <assoc type = "spirit" image = "holy christ">santo Cristo</assoc> lloró</line>
+<line>Y cuales no serían mis penas, Llorona</line>
+<line>Que el <assoc type = "spirit" image = "holy christ">santo Cristo</assoc> lloró</line>
+</chorus>
+    
+<chorus>
+<line>¡Ay de mí!, Llorona, Llorona</line>
+<line>Llorona de un campo lírio</line>
+<line>¡Ay de mí!, Llorona, Llorona</line>
+<line>Llorona de un campo lírio</line>
+</chorus>
+    
+<verse>
+<line>El que no sabe de amores, Llorona</line>
+<line>No sabe lo que es martirio</line>
+<line>El que no sabe de amores, Llorona</line>
+<line>No sabe lo que es martirio</line>
+</verse>
+    
+<chorus>
+<line>Todos me dicen el Negro, Llorona</line>
+<line>Negro, pero cariñoso</line>
+<line>Todos me dicen el Negro, Llorona</line>
+<line>Negro, pero cariñoso</line>
+
+<line>Yo soy como el <assoc type = "earth " image = "green chile pepper">chile verde</assoc>, Llorona</line>
+<line>Picante, pero sabroso</line>
+<line>Yo soy como el <assoc type = "earth " image = "green chile pepper">chile verde</assoc>, Llorona</line>
+<line>Picante, pero sabroso</line>
+</chorus>
+    
+<chorus>
+<line>¡Ay de mí!, Llorona, Llorona</line>
+<line>Llorona llévame al río</line>
+<line>¡Ay de mí!, Llorona, Llorona</line>
+<line>Llorona llévame al río</line>
+</chorus>
+    
+<verse>
+<line>Tápame con tu reboso, Llorona</line>
+<line>Que me muero de frío</line>
+<line>Tápame con tu reboso, Llorona</line>
+<line>Que me muero de frío</line>
+</verse>
+    
+<chorus>
+<line>Si porque te quiero, quieres, Llorona</line>
+<line>Quieres que te quiera más</line>
+<line>Si porque te quiero, quieres, Llorona</line>
+<line>Quieres que te quiera más</line>
+
+<line>Si ya te he dado la vida, Llorona</line>
+<line>¿Qué más quieres?, ¿Quieres más?</line>
+<line>Si ya te he dado la vida, Llorona</line>
+<line>¿Qué más quieres?, ¿Quieres más?</line>
+</chorus>
+    
+<outro>
+<line>¡Ay de mí!</line>
+<line>¡Ay de mí!</line>
+<line>¡Ay de mí!</line>
+<line>Llorona</line>
+
+<line>¡Ay de mí!</line>
+<line>¡Ay de mí!</line>
+<line>¡Ay de mí!</line>
+<line>Llorona</line>
+</outro>
+    
+</song>

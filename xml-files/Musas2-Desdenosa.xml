@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig = "orig">
+    <meta>
+        <album>musas-02</album>
+        <title>Desdeñosa</title>
+        <writers>Benigno Lara Foster</writers>
+        <features>Eugenia León, Omara Portuondo, Los Macorinos</features>
+        <style>Huapango</style>
+    </meta>
+
+<chorus>
+<line>Esas dos miradas de fulgor extraño</line>
+<line>Esas tus sonrisas de color de rosa</line>
+<line>Siempre me fascinan, aunque me hacen daño</line>
+<line>Porque eres tan linda como desdeñosa</line>
+</chorus>
+    
+<chorus>
+<line>Esas dos miradas de fulgor extraño</line>
+<line>Esas tus sonrisas de color de rosa</line>
+<line>Siempre me fascinan, aunque me hacen daño</line>
+<line>Porque eres tan linda como desdeñosa</line>
+</chorus>
+    
+<verse>
+<line>Bríndame el encanto de tus lindos ojos</line>
+<line>Y el sensual embrujo que en ti se adivina</line>
+<line>Para que en mi vida tan llena de abrojos</line>
+<line>Seas cual una estrella que a mi <assoc type = "spirit" image = "soul">alma</assoc> ilumina</line>
+</verse>
+    
+<chorus>
+<line>Esas dos miradas de fulgor extraño</line>
+<line>Esas tus sonrisas de color de rosa</line>
+<line>Siempre me fascinan, aunque me hacen daño</line>
+<line>Porque eres tan linda como desdeñosa</line>
+</chorus>
+    
+<verse>
+<line>Bríndame el encanto de tus lindos ojos</line>
+<line>Y el sensual embrujo que en ti se adivina</line>
+<line>Para que en mi vida tan llena de abrojos</line>
+<line>Seas cual una estrella que a mi <assoc type = "spirit" image = "soul">alma</assoc> ilumina</line>
+<line>Seas cual una estrella que a mi <assoc type = "spirit" image = "soul">alma</assoc> ilumina</line>
+<line>Seas cual una estrella que a mi <assoc type = "spirit" image = "soul">alma</assoc> ilumina</line>
+</verse>
+    
+</song>

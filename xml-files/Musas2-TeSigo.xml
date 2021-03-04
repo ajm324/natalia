@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig = "orig">
+    <meta>
+        <album>musas-02</album>
+        <title>Te Sigo</title>
+        <writers>Augusto Polo Campos</writers>
+        <features>Los Macorinos</features>
+        <style>Huapango</style>
+    </meta>
+
+<pre-chorus>
+<line>Te sigo, por que en la ruta donde vas yo voy contigo</line>
+<line>Te sigo, pues si me quieres de verdad, yo te bendigo</line>
+<line>Te sigo, y si algún día yo te hallará en mi camino</line>
+</pre-chorus>
+    
+<chorus>
+<line>Tu sombra</line>
+<line>No será <assoc type = "space" image = "shadow">sombra</assoc>, será <assoc type = "space" image = "light">luz</assoc> en mi destino</line>
+<line>Si no me quieres y al final somos amigos</line>
+<line>Di por qué calles andarás y yo te sigo</line>
+
+<line>Tu <assoc type = "space" image = "shadow">sombra</assoc></line>
+<line>No será <assoc type = "space" image = "shadow">sombra</assoc>, será <assoc type = "space" image = "light">luz</assoc> en mi destino</line>
+<line>Si no me quieres y al final somos amigos</line>
+<line>Di por qué calles andarás y yo te sigo</line>
+</chorus>
+    
+<pre-chorus>
+<line>Te sigo, por que en la ruta donde vas yo voy contigo</line>
+<line>Te sigo, pues si me quieres de verdad, yo te bendigo</line>
+<line>Te sigo, y si algún día yo te hallará en mi camino</line>
+</pre-chorus>
+    
+<chorus>
+<line>Tu sombra</line>
+<line>No será <assoc type = "space" image = "shadow">sombra</assoc>, será <assoc type = "space" image = "light">luz</assoc> en mi destino</line>
+<line>Si no me quieres y al final somos amigos</line>
+<line>Di por qué calles andarás y yo te sigo</line>
+
+<line>Tu <assoc type = "space" image = "shadow">sombra</assoc></line>
+<line>No será <assoc type = "space" image = "shadow">sombra</assoc>, será <assoc type = "space" image = "light">luz</assoc> en mi destino</line>
+<line>Si no me quieres y al final somos amigos</line>
+<line>Di por qué <assoc type = "country" image = "streets">calles</assoc> andarás</line>
+<line>Di por qué <assoc type = "country" image = "streets">calles</assoc> andarás</line>
+<line>Di por qué <assoc type = "country" image = "streets">calles</assoc> andarás</line>
+<line>Di por qué <assoc type = "country" image = "streets">calles</assoc> andarás</line>
+<line>Di por qué <assoc type = "country" image = "streets">calles</assoc> andarás</line>
+<line>Di por qué <assoc type = "country" image = "streets">calles</assoc> andarás y yo te sigo</line>
+</chorus>
+</song>

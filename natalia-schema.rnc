@@ -1,5 +1,5 @@
 start = song
-song = element song { (orig | meta | verse | chorus | bridge | pre-chorus | post-chorus | outro)*}
+song = element song { (orig | meta | instrumental | verse | chorus | bridge | pre-chorus | post-chorus | outro)*}
 orig = attribute orig {"orig" | "cover"}
 meta = element meta { album, title, (writers | features | style | location)*}
 title = element title {text}
@@ -10,8 +10,9 @@ style = element style {text}
 location = element location {text}
 line = element line {mixed{(assoc | place)*}}
 verse = element verse {line+}
+instrumental = element instrumental{text}
 assoc = element assoc {mixed{(type | image)*}}
-type = attribute type {"earth"| "water" | "space" | "spirit" | "country"}
+type = attribute type {"earth"| "water" | "space" | "spirit" | "country" | "air"}
 image = attribute image {text} 
 place = element place {text}
 chorus = element chorus {mixed{(line | assoc | place)*}}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+   <meta>
+       <album>musas-02</album>
+       <title>Humanidad</title>
+       <writers>Alberto Domínguez</writers>
+       <features>Los Macorinos</features>
+       <style>Huapango</style>
+   </meta>
+
+<verse>
+<line>Oye</line>
+<line>Lo que yo te canto</line>
+<line><assoc type = "earth" image = "pearls">Perlas</assoc> de mi llanto</line>
+<line>Para tu collar</line>
+
+<line>Sabes</line>
+<line>Que te quiero mucho</line>
+<line>Y quien nos separa</line>
+<line>Es la humanidad</line>
+</verse>
+    
+<chorus>
+<line>Humanidad</line>
+<line>Hasta dónde nos vas a llevar</line>
+<line>Por tu trágico sino</line>
+<line>Cuál será mi destino</line>
+
+<line>Humanidad</line>
+<line>Hoy de sangre te he visto teñir</line>
+<line>Pobrecito del <assoc type = "earth" image = "world">mundo</assoc></line>
+<line>Pobrecita de mí</line>
+</chorus>
+
+<verse>
+<line>Si rodando los dos por el <assoc type = "earth" image = "world">mundo</assoc></line>
+<line>Un encuentro nos diera el ocaso</line>
+<line>Sólo un beso, tal vez un abrazo</line>
+<line>Te daré, nada más te daré</line>
+</verse>
+    
+<chorus>
+<line>Humanidad, humanidad</line>
+<line>Hoy de ti me separa el deber</line>
+<line>Quiera <assoc type = "spirit" image = "God">Dios</assoc> que mañana</line>
+<line>Nos volvamos a ver</line>
+</chorus>
+    
+<verse>
+<line>Si rodando los dos por el mundo</line>
+<line>Un encuentro nos diera el ocaso</line>
+<line>Sólo un beso, tal vez un abrazo</line>
+<line>Te daré, nada más te daré</line>
+</verse>
+    
+<chorus>
+<line>Humanidad</line>
+<line>Humanidad</line>
+<line>Hoy de ti me separa el deber</line>
+<line>Quiera <assoc type = "spirit" image = "God">Dios</assoc> que mañana</line>
+<line>Nos volvamos a ver</line>
+
+<line>Humanidad</line>
+</chorus>
+    
+</song>
