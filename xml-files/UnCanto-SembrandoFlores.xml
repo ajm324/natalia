@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <album>canto-01</album>
+        <title>Sembrando Flores</title>
+        <features>Los Cojolites</features>
+        <writers>Noé González, Benito Cortés</writers>
+        <style>San Jarocho</style>
+    </meta>
+    
+<verse>
+<line>Mi madre me dijo un día <assoc type="earth" image="flowering spring">floreando la primavera</assoc></line>
+<line><assoc type="earth" image = "flowering spring">Floreando la primavera</assoc> mi madre me dijo un día</line>
+<line>Mi madre me dijo un día <assoc type="earth" image = "flowering spring">floreando la primavera</assoc></line>
+<line><assoc type = "earth" image = "flowering spring">Floreando la primavera</assoc> mi madre me dijo un día</line>
+</verse>
+
+<verse>
+<line>Con mucha sabiduría que la vida la viviera</line>
+<line>Que la vida la viviera con mucha sabiduría</line>
+<line>Con mucha sabiduría que la vida la viviera</line>
+<line>Que la vida la viviera con mucha sabiduría</line>
+</verse>
+    
+<chorus>
+<line>Mi mamá me dijo que <assoc type="earth" image="plant flowers">sembrara flores</assoc></line>
+<line>Que saliera <assoc type ="earth" image="field">al campo</assoc> a buscar amores</line>
+<line>Mi mamá me dijo que <assoc type="earth" image="plant flowers">sembrara flores</assoc></line>
+<line>Que saliera <assoc type = "earth" image="field">al campo</assoc> a buscar amores</line>
+</chorus>
+
+<verse>
+<line>Mi madre me dijo a mí que yo me saliera <assoc type="earth" image="field">al campo</assoc></line>
+<line>Que yo me saliera <assoc type="earth" image="field">al campo</assoc> mi madre me dijo a mí</line>
+<line>Mi madre me dijo a mí que yo me saliera <assoc type="earth" image="field">al campo</assoc></line>
+<line>Que yo me saliera <assoc type="earth" image="field">al campo</assoc> mi madre me dijo a mí</line>
+</verse>
+
+<verse>
+<line>Que cortara yo <assoc type="earth" image="flower">una flor</assoc> para llevarle en <assoc type="spirit" image="saint">su santo</assoc></line>
+<line>Para llevarle en <assoc type="spirit" image="saint">su santo</assoc> que cortara yo <assoc type ="earth" image="flower">una flor</assoc></line>
+<line>Que cortara yo <assoc type="earth" image="flower">una flor</assoc> para llevarle en <assoc type="spirit" image="saint">su santo</assoc></line>
+<line>Mi madre me dijo a mi que yo me saliera <assoc type="earth" image="field">al campo</assoc></line>
+</verse>
+
+<chorus>
+<line>Mi mamá me dijo que <assoc type="earth" image="plant flowers">sembrara flores</assoc></line>
+<line>Que saliera <assoc type ="earth" image="field">al campo</assoc> a buscar amores</line>
+<line>Mi mamá me dijo que <assoc type="earth" image="plant flowers">sembrara flores</assoc></line>
+<line>Que saliera <assoc type = "earth" image="field">al campo</assoc> a buscar amores</line>
+</chorus>
+
+<verse>
+<line>Con mucha sabiduría que la vida la viviera</line>
+<line>Mi madre me dijo un día</line>
+<line>¡Sí señor!</line>
+<line>Que sembrara yo <assoc type="earth" image="flower">una flor</assoc> para entregarle en <assoc type="spirit" image="saint">su santo</assoc></line>
+<line>Para entregarle en su santo que sembrara yo <assoc type="earth" image="flower">una flor</assoc></line>
+</verse>
+
+<outro>
+<line>Mi mamá me dijo (mi mamá me dijo) que <assoc type="earth" image="plant flowers">sembrara flores</assoc> (que sembrara flores)</line>
+<line>Que saliera al campo (que saliera <assoc type="earth" image="field">al campo</assoc>) a buscar amores (a buscar amores)</line>
+<line>Mi mamá me dijo (mi mamá me dijo) que <assoc type="earth" image="plant flowers">sembrara flores</assoc> (que sembrara flores)</line>
+<line>Que saliera al campo (que saliera <assoc type="earth" image="field">al campo</assoc>) a buscar amores (a buscar amores)</line>
+</outro>
+</song>

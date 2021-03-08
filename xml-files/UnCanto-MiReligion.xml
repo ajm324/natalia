@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <album>canto-01</album>
+        <title>Mi Religión</title>
+        <writers>Natalia Lafourcade</writers>
+    </meta>
+    
+<verse>
+<line>Desde que vi tus ojos me enamoré</line>
+<line>Me enamoré</line>
+<line>Me enamoré</line>
+</verse>
+    
+<verse>
+<line>Desde que oí tu canto sabía que</line>
+<line>No había manera</line>
+<line>De abandonarte, mi amor</line>
+</verse>
+    
+<verse>    
+<line>Porque toda la luz y colores</line>
+<line>De un <assoc type = "space" image = "sky">cielo azul</assoc> haces brillar</line>
+<line>Eres tú <assoc type = "spirit" image = "religion">mi religión</assoc></line>
+</verse>
+    
+<bridge>
+<line>A veces me pregunto por qué me alejo</line>
+<line>De tu alegría, misterios e inspiración</line>
+<line>Siento un dolor, un amargo arrepentimiento</line>
+</bridge>
+
+<pre-chorus>
+<line>Tú eres mi hogar</line>
+<line><assoc type="spirit" image="religion">La religión en mi existir</assoc></line>
+<line>Eres tú</line>
+</pre-chorus>
+
+<chorus>
+<line>Música, tú</line>
+<line><assoc type="spirit" image="religion">Mi religión</assoc></line>
+<line>Una vida no basta</line>
+<line>Para entregarte mi amor</line>
+</chorus>
+    
+<chorus>
+<line>Música, tú</line>
+<line>Mi perdición</line>
+<line>Una vida no basta</line>
+<line>Para entregarte mi amor</line>
+</chorus>
+    
+<verse>
+<line>Desde que vi tus ojos me enamoré</line>
+<line>Me enamoré</line>
+<line>Me enamoré
+</line></verse>
+
+<verse>
+<line>En tu primer abrazo recuerdo que</line>
+<line>Mi cuerpo vivo</line>
+<line>Y temblorosa mi voz</line>
+<line>Porque todo en <assoc type="space" image="universe">este universo</assoc></line>
+<line>Cobró razón</line>
+</verse>
+
+<verse>
+<line><assoc type="spirit" image="existence">En mi existir</assoc></line>
+<line>Eres tú <assoc type="spirit" image="religion">mi religión</assoc></line>
+</verse>
+
+<bridge>
+<line>A veces me pregunto por qué me alejo</line>
+<line>De tu alegría, misterios e inspiración</line>
+<line>Siento un dolor, un amargo arrepentimiento</line>
+</bridge>
+
+<pre-chorus>
+<line>Tú eres mi hogar</line>
+<line><assoc type="spirit" image="religion">La religión en mi existir</assoc></line>
+<line>Eres tú</line>
+</pre-chorus>
+
+<chorus>
+<line>Música, tú</line>
+<line><assoc type="spirit" image="religion">Mi religión</assoc></line>
+<line>Una vida no basta</line>
+<line>Para entregarte mi amor</line>
+</chorus>
+
+<chorus>
+<line>Música, tú</line>
+<line>Mi perdición</line>
+<line>Una vida no basta</line>
+<line>Para entregarte mi amor</line>
+</chorus>
+
+<chorus>
+<line>Música, tú</line>
+<line><assoc type = "spirit" image = "religion">Mi religión</assoc></line>
+<line>Una vida no basta</line>
+<line>Para entregarte mi amor</line>
+</chorus>
+
+<chorus>
+<line>Música, tú</line>
+<line>Mi perdición</line>
+<line>Una vida no basta</line>
+<line>Para entregarte mi amor</line>
+</chorus>
+
+<outro>
+<line>Ay, me enamoré</line>
+<line>Ay, me enamoré</line>
+<line>Una vida no basta, lo sé</line>
+<line>Para darte todito mi amor</line>
+</outro>
+
+<outro>
+<line>Ay, me enamoré</line>
+<line>Una vida no basta, lo sé</line>
+<line>Para darte todito mi amor</line>
+</outro>
+
+<outro><line>(¡Yija!)</line></outro>
+</song>

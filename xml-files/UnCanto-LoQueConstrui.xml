@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig = "orig">
+    <meta>
+        <album>canto-01</album>
+        <title>Lo que Construimos</title>
+        <features>Meme (Emmanual Del Real)</features>
+        <writers>Natalia Lafourcade</writers>
+    </meta>
+    
+<verse>
+<line>Esta historia terminó, no existe</line>
+<line>Lo que un día construimos se ha esfumado</line>
+<line>Pareciera que es más fácil dejarnos</line>
+<line>Pero eres un fantasma conmigo caminando</line>
+</verse>
+
+<pre-chorus>
+<line>No creas que no valió la pena</line>
+<line>No creas que no eres importante</line>
+<line>Al contrario yo te amé con toda <assoc type = "spirit" image="soul">el alma</assoc></line>
+</pre-chorus>
+
+<pre-chorus>
+<line>
+No creas que no valió la pena</line>
+<line>No creas que lo perdimos</line>
+<line>Esto que nos duele, aunque nos duele, es sólo nuestro</line>
+</pre-chorus>
+    
+<chorus>
+<line>Lo que construimos se acabó</line>
+<line>Lo que construimos se acabó</line>
+<line>Fue sólo nuestro</line>
+<line>Fue sólo nuestro</line>
+<line>Lo que construimos se acabó</line>
+<line>Lo que construimos se acabó</line>
+<line>Se lo lleva <assoc type="air" image="wind">el viento</assoc></line>
+<line>Se lo lleva <assoc type="air" image="wind">el viento</assoc></line>
+</chorus>
+    
+<verse>
+<line>Esta historia terminó, no existe</line>
+<line>Lo que un día construimos se ha esfumado</line>
+<line>Pareciera que es más fácil dejarnos</line>
+<line>Pero eres un fantasma conmigo caminando</line>
+</verse>
+    
+<pre-chorus>
+<line>Yo no aprendí a soltar amores</line>
+<line>Yo no aprendí a dejarte ir</line>
+<line>Eras una apuesta de largo plazo</line>
+<line>Lo que construimos, lo que construimos</line>
+</pre-chorus>
+
+<chorus>
+<line>Lo que construimos se acabó</line>
+<line>Lo que construimos se acabó</line>
+<line>Fue sólo nuestro</line>
+<line>Fue sólo nuestro</line>
+<line>Lo que construimos se acabó</line>
+<line>Lo que construimos se acabó</line>
+<line>Se lo lleva <assoc type="air" image="wind">el viento</assoc></line>
+<line>Se lo lleva <assoc type="air" image="wind">el viento</assoc></line>
+</chorus>
+    
+<chorus>
+<line>Lo que construimos se acabó</line>
+<line>Lo que construimos se acabó</line>
+<line>Fue sólo nuestro</line>
+<line>Fue sólo nuestro</line>
+<line>Lo que construimos se acabó</line>
+<line>Lo que construimos se acabó</line>
+<line>Se lo lleva <assoc type="air" image="wind">el viento</assoc></line>
+<line>Se lo lleva <assoc type="air" image="wind">el viento</assoc></line>
+</chorus>
+</song>

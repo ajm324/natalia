@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Desktop/natalia/natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+<meta>
+    <album>canto-01</album>
+    <title>Ya No Vivo por Vivir</title>
+    <writers>Alberto Aguilera Valadez</writers>
+    <features>Leonel García</features>
+</meta>
+
+<verse>
+<line>Poco a poco a poquito me fui enamorando</line>
+<line>No pude evitarlo yo te quiero tanto, pero</line>
+<line>Tanto y tanto tú bien sabes cuánto eso y</line>
+<line>Otro tanto te quiero decir</line>
+<line>Que ya no vivo por vivir</line>
+<line>Que ya no vivo por vivir</line>
+</verse>
+
+<verse>
+<line>Poco a poco a poquito me fuiste enseñando</line>
+<line>A besar tus labios, tus ojos, tus manos</line>
+<line>Tu cuerpo, <assoc type = "spirit" image = "dream">soñando te tengo</assoc> en mis brazos</line>
+<line><assoc type = "spirit" image = "being">Quiero ser de ti, yo voy a ser de ti</assoc></line>
+<line>El más grande y dulce amor</line>
+<line>El más grande y dulce amor</line>
+</verse>
+    
+<bridge>
+<line>Poco a poco, lentamente, me enseñaste a querer</line>
+<line>Poco a poco, lentamente, yo de ti me enamoré</line>
+<line>Poco a poco, lentamente, me enseñaste a vivir</line>
+<line>Poco a poco, lentamente, yo me enamoré de ti</line>
+</bridge>
+
+<chorus>
+<line>Hoy canto y vivo contenta porque ahora ya</line>
+<line>Puedo decir que por fin</line>
+<line>Ya no vivo por vivir ya no vivo</line>
+<line>Hoy canto y vivo contento porque</line>
+<line>Ahora ya puedo decir que por fin</line>
+<line>Ya no vivo por vivir, ya no vivo</line>
+</chorus>
+
+<verse>
+<line>Poco a poco a poquito me fui enamorando</line>
+<line>No pude evitarlo yo te quiero tanto, pero</line>
+<line>Tanto y tanto tú bien sabes cuánto eso y</line>
+<line>Otro tanto te quiero decir</line>
+<line>Que ya no vivo por vivir</line>
+<line>Que ya no vivo por vivir</line>
+</verse>
+
+<verse>
+<line>Poco a poco a poquito me fuiste enseñando</line>
+<line>A besar tus labios, tus ojos, tus manos</line>
+<line>Tu cuerpo, <assoc type = "spirit" image = "dream">soñando te tengo</assoc> en mi brazos</line>
+<line><assoc type = "spirit" image = "being">Quiero ser de ti, yo voy a ser de ti</assoc></line>
+<line>El más grande y dulce amor</line>
+<line>El más grande y dulce amor</line>
+</verse>
+    
+<bridge>
+<line>Poco a poco, lentamente, me enseñaste a querer</line>
+<line>Poco a poco, lentamente, yo de ti me enamoré</line>
+<line>Poco a poco, lentamente, me enseñaste a vivir</line>
+<line>Poco a poco, lentamente, yo me enamoré de ti</line>
+</bridge>
+
+<chorus>
+<line>Hoy canto y vivo contenta porque ahora ya</line>
+<line>Puedo decir que por fin</line>
+<line>Ya no vivo por vivir ya no vivo</line>
+</chorus>
+
+<outro>
+<line>Hoy canto y vivo contento porque</line>
+<line>Ahora ya puedo decir que por fin</line>
+<line>Ya no vivo por vivir, ya no vivo</line>
+<line>Yo ya no vivo por vivir, ya no vivo</line>
+<line>Yo ya no vivo por vivir, ya no vivo</line>
+<line>Yo ya no vivo por vivir, ya no vivo</line>
+<line>Yo ya no vivo</line>
+</outro>
+</song>

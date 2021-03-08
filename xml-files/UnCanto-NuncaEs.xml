@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <album>canto-01</album>
+        <title>Nunca Es Suficiente</title>
+        <writers>Daniela Azpiasu</writers>
+    </meta>
+
+<verse>
+<line>Nunca es suficiente para mí</line>
+<line>Porque siempre quiero más de ti</line>
+<line>Yo quisiera hacerte más feliz</line>
+<line>Hoy, mañana, siempre, hasta el fin</line>
+</verse>
+
+<pre-chorus>
+<line>Mi corazón estalla por tu amor</line>
+<line>¿Y tú qué crees? ¿que esto es muy normal?</line>
+<line>Acostumbrado estás tanto al amor</line>
+<line>Que no lo ves, yo nunca he estado así</line>
+<line>Si de casualidad</line>
+<line>Me ves llorando un poco</line>
+<line>Es porque yo te quiero a ti</line>
+</pre-chorus>
+
+<chorus>
+<line>Y tú te vas, jugando a enamorar</line>
+<line>Todas las ilusiones vagabundas que se dejan alcanzar</line>
+<line>Y no verás que lo que yo te ofrezco es algo incondicional</line>
+<line>Y tú te vas, jugando a enamorar</line>
+<line>Te enredas por <assoc type="space" image="night">las noches</assoc>, entre historias que nunca tienen final</line>
+<line>Te perderás dentro de mis recuerdos por haberme hecho llorar</line>
+</chorus>
+
+<verse>
+<line>Nunca es suficiente para mí</line>
+<line>Porque siempre quiero más de ti</line>
+<line>No ha cambiado en nada <assoc type="spirit" image="feeling">mi sentir</assoc></line>
+<line>Aunque me haces mal te quiero aquí</line>
+</verse>
+
+<pre-chorus>
+<line>Mi corazón estalla de dolor</line>
+<line>¿Cómo evitar que se fracture en mil?</line>
+<line>Acostumbrado estás tanto al amor</line>
+<line>Que no lo ves, yo nunca he estado así</line>
+<line>Si de casualidad</line>
+<line>Me ves llorando un poco</line>
+<line>Es porque yo te quiero a ti</line>
+</pre-chorus>
+
+<chorus>
+<line>Y tú te vas, jugando a enamorar</line>
+<line>Todas las ilusiones vagabundas que se dejan alcanzar</line>
+<line>Y no verás que lo que yo te ofrezco es algo incondicional</line>
+<line>Incondicional</line>
+<line>Y tú te vas, jugando a enamorar</line>
+<line>Te enredas por <assoc type="space" image= "night">las noches</assoc>, entre historias que nunca tienen final</line>
+<line>Te perderás dentro de mis recuerdos por haberme hecho llorar</line>
+</chorus>
+
+<outro>
+<line>Y tú te vas, jugando a enamorar</line>
+<line>Te enredas por las noches, entre historias que nunca tienen final</line>
+<line>Te perderás dentro de mis recuerdos por haberme hecho llorar</line>
+<line>Te perderás dentro de mis recuerdos por haberme hecho llorar</line>
+</outro>
+</song>

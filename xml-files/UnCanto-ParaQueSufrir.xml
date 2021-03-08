@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song>
+    <meta>
+        <album>canto-01</album>
+        <title>Para Que Sufrir</title>
+        <features>Jorge Drexler</features>
+        <writers>Natalia Lafourcade, Juan Manuel Torreblanca</writers>
+    </meta>
+ 
+<verse>
+<line>¿Para qué sufrir si no hace falta?</line>
+<line>¿Para qué ser frío si el mundo nos hace sentir en casa?</line>
+<line>¿Para qué dejar que todo muera?</line>
+<line>Si aquéllo entre tú y yo nos hizo ver tan bello todo</line>
+</verse>
+    
+<chorus>
+<line>Nunca imaginé que me casaría sin papeles</line>
+<line>Nunca imaginé que después de un tiempo acabaría sin paredes</line>
+<line>La casa que vimos nacer, <assoc type="water" image="fish">los peces</assoc> que dijeron adiós</line>
+<line><assoc type = "space" image = "night">Las noches</assoc> llenas de comer</line>
+<line>Grabando esas canciones <assoc type="space" image ="sunrise">hasta el amanecer</assoc></line>
+</chorus>
+    
+<verse>
+<line>¿Para qué sufrir si no hace falta?</line>
+<line>¿Para qué tirar nuestras cartas y fotografías?</line>
+<line>¿Para qué olvidar que antes de todos nuestros besos</line>
+<line>Fuimos como hermanos, fuimos como amigos con derechos?</line>
+</verse>
+
+<chorus>
+<line>Nunca imaginé que me casaría sin papeles</line>
+<line>Nunca supe cómo hacer que fueras más feliz, te lo juro</line>
+<line>Tenías que buscarte tú, tenía que salvarme yo</line>
+<line>Teníamos que dejarlo ser</line>
+<line>Invento esta canción en <assoc type="space" image="sunset">el atardecer</assoc></line>
+</chorus>
+    
+<bridge>
+<line>Dueños de la noche fuimos</line>
+<line>Dueños sin saber cómo nos perdimos</line>
+<line>Cómo dividimos lazos sin saber por qué</line>
+<line>Dueños en <assoc type = "space" image = "night">la noche</assoc> fuimos, la quisimos bien</line>
+<line>Todo se lo dimos como lo vivimos</line>
+<line>Fuimos locos sin poder volver</line>
+<line>Locos sin poder volver</line>
+</bridge>
+
+<outro>
+<line>¿Para qué sufrir si no hace falta?</line>
+<line>¿Para qué sufrir si no hace falta?</line>
+<line>¿Para qué sufrir si no hace falta?</line>
+<line>¿Para qué sufrir si no hace falta?</line>
+</outro>
+</song>

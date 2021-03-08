@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig = "cover">
+    <meta>
+        <album>canto-01</album>
+        <title>Cucurrucucú Paloma</title>
+        <writers>Tomás Méndez</writers>
+        <style>Huapango</style>
+    </meta>
+    
+<verse>
+<line>Dicen que no comía</line>
+<line>No más se le iba en puro llorar</line>
+<line>Dicen que no dormía</line>
+<line>No más se le iba en puro tomar</line>
+<line>Juran que el mismo <assoc type="space" image="sky">cielo</assoc></line>
+<line>Se estremecía al oír su llanto</line>
+<line>Cómo sufria por ella</line>
+<line>Que hasta en su muerte la fue llamando:</line>
+<line>Ay, ay, ay, ay, ay cantaba</line>
+<line>Ay, ay, ay, ay, ay gemía</line>
+<line>Ay, ay, ay, ay, ay lloraba</line>
+<line>De pasión mortal moría</line>
+</verse>
+    
+<verse>
+<line>Que una <assoc type="earth" image="dove">paloma</assoc> triste</line>
+<line>Muy de mañana le va a cantar</line>
+<line>A su casita sola</line>
+<line>Con sus puertitas de par en par</line>
+<line>Juran que esa <assoc type="earth" image="dove">paloma</assoc></line>
+<line>No es otra cosa más que su <assoc type="spirit" image="soul">alma</assoc></line>
+<line>Que todavía la espera</line>
+<line>A que regrese la desdichada</line>
+<line>Cucurrucucú <assoc type="earth" image="dove">paloma</assoc>, cucurrucucú no llores</line>
+<line>Las piedras jamás, <assoc type="earth" image="dove">paloma</assoc></line>
+<line>¿Qué van a saber de amores?</line>
+<line>Cucurrucucú, cucurrucucú</line>
+<line>Cucurrucucú, cucurrucucú</line>
+<line>Cucurrucucú, <assoc type="earth" image="dove">paloma</assoc>, ya no le llores</line>
+</verse>
+</song>
