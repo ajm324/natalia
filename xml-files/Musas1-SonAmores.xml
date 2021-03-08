@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig="orig">
+    <meta>
+        <album>musas-01</album>
+        <title>Son Amores</title>
+        <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
+        <features>Los Macorinos</features>
+        <location>México</location>
+    </meta>
+    <verse>
+        <line>Cuando sientas como un palpitar, corazón</line>
+        <line>Son amores</line>
+        <line>Si al mirarme sientes emoción, corazón</line>
+        <line>Son amores</line>
+    </verse>
+    <verse>
+        <line>Sonarán, dindán, dindán</line>
+        <line>Repicar de campanas</line>
+        <line>Que dirán dandín, dandín</line>
+        <line>Que tu amor por mi aguarda</line>
+    </verse>
+    <verse>
+        <line>No pretendas más tiempo callar</line>
+        <line>Y ocultar tus amores</line>
+        <line>Si total yo también te he de amar</line>
+        <line>Con toda mi pasión</line>
+    </verse>
+    <verse>
+        <line>Y verás que al fin se unirán nuestros dos corazones</line>
+        <line>Y en un beso febril fundirán de una vez dos amores</line>
+    </verse>
+    <verse>
+        <line>Cuando sientas como un palpitar, corazón</line>
+        <line>Son amores</line>
+        <line>Si al mirarme sientes emoción, corazón</line>
+        <line>Son amores</line>
+    </verse>
+    <verse>
+        <line>Sonarán, dindán, dindán</line>
+        <line>Repicar de campanas</line>
+        <line>Que dirán dandín, dandín</line>
+        <line>Que tu amor por mi aguarda</line>
+    </verse>
+    <verse>
+        <line>No pretendas más tiempo callar</line>
+        <line>Y ocultar tus amores</line>
+        <line>Si total yo también te he de amar</line>
+        <line>Con toda mi pasión</line>
+    </verse>
+    <verse>
+        <line>Y verás que al fin se unirán nuestros dos corazones</line>
+        <line>Y en un beso febril fundirán de una vez dos amores</line>
+        <line>Amores, amores</line>
+    </verse>
+</song>

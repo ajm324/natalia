@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig="orig">
+    <meta>
+        <album>musas-01</album>
+        <title>Tonada De Luna Llena</title>
+        <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
+        <features>Los Macorinos</features>
+        <location>México</location>
+    </meta>
+    <verse>
+        <line>Yo vidé una garza mora</line>
+        <line>Dándole combate a un rio</line>
+        <line>Así es como se enamora</line>
+        <line>Tu corazón con el mío</line>
+    </verse>
+    <verse>
+        <line>Yo vidé una garza mora</line>
+        <line>Dándole combate a un rio</line>
+        <line>Así es como se enamora</line>
+        <line>Así es como se enamora</line>
+        <line>Tu corazón con el mío</line>
+        <line>Tu corazón con el mío</line>
+    </verse>
+    <verse>
+        <line>Luna, luna, llena</line>
+        <line>Menguante</line>
+        <line>Luna, luna, llena</line>
+        <line>Menguante</line>
+    </verse>
+    <verse>
+        <line>Anda muchacho a la casa</line>
+        <line>Y me traes la carabina</line>
+        <line>Pa' matar este gavilán</line>
+        <line>Que no me deja gallina</line>
+    </verse>
+    <verse>
+        <line>La luna me está mirando</line>
+        <line>Yo no sé lo que me ve</line>
+        <line>Yo tengo la ropa limpia</line>
+        <line>Ayer tarde la lavé</line>
+    </verse>
+    <verse>
+        <line>La luna me está mirando</line>
+        <line>Yo no sé lo que me ve</line>
+        <line>Yo tengo la ropa limpia</line>
+        <line>Yo tengo la ropa limpia</line>
+        <line>Ayer tarde la lavé</line>
+        <line>Ayer tarde la lavé</line>
+    </verse>
+    <verse>
+        <line>Luna, luna, llena</line>
+        <line>Menguante</line>
+        <line>Luna, luna, llena</line>
+        <line>Menguante</line>
+    </verse>
+    <verse>
+        <line>Luna, luna, llena</line>
+        <line>Menguante</line>
+        <line>Luna, luna, llena</line>
+        <line>Menguante</line>
+    </verse>
+</song>

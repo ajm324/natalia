@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig="orig">
+    <meta>
+        <album>musas-01</album>
+        <title>Vals Poetico</title>
+        <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
+        <features>Los Macorinos</features>
+        <location>México</location>
+    </meta>
+    <instrumental>Instrumental</instrumental>
+</song>

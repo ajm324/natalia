@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig="orig">
+    <meta>
+        <album>musas-01</album>
+        <title>Tú Si Sabes Quererme</title>
+        <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
+        <features>Los Macorinos</features>
+        <location>México</location>
+    </meta>
+    <verse>
+        <line>¡Miguelito!</line>
+    </verse>
+    <verse>
+        <line>Ha pasado tanto tiempo</line>
+        <line>Finalmente, descubrí tus besos</line>
+        <line>Me enredaste en tu mirada</line>
+        <line>Me abrazaste con todos mis defectos</line>
+        <line>Tú sí sabes quererme</line>
+        <line>Tú sí sabes adorarme</line>
+        <line>Mi amor, no te vayas</line>
+        <line>Quédate por siempre, para siempre</line>
+        <line>Para siempre amarte</line>
+    </verse>
+    <chorus>
+        <line>Corazón, tú sí sabes</line>
+        <line>Quererme como a mí me gusta</line>
+        <line>Soy la flor encendida que da color</line>
+        <line>Al jardín de tu vida</line>
+        <line>Corazón, tú sí sabes</line>
+        <line>Quererme como a mí me gusta</line>
+        <line>Por favor, no me dejes</line>
+        <line>Que soy valiente en corresponderte</line>
+    </chorus>
+    <verse>
+        <line>Ha pasado tanto tiempo</line>
+        <line>Finalmente, sé que estoy dispuesta</line>
+        <line>Es tan difícil encontrar un amor</line>
+        <line>Que aquí me quedo con heridas bien abiertas</line>
+        <line>Ya no me importa lo que piensan los demás</line>
+        <line>Aquí me quedo para ser testigo siempre de la vida</line>
+        <line>Aquí por siempre, para siempre</line>
+        <line>Para siempre amarnos</line>
+
+    </verse>
+    <chorus>
+        <line>Corazón, tú sí sabes</line>
+        <line>Quererme como a mí me gusta</line>
+        <line>Soy la flor encendida que da color</line>
+        <line>Al jardín de tu vida</line>
+        <line>Corazón, tú sí sabes</line>
+        <line>Quererme como a mí me gusta</line>
+        <line>Por favor, no me dejes</line>
+        <line>Que soy valiente en corresponderte</line>
+    </chorus>
+    <chorus>
+        <line>Corazón, tú sí sabes</line>
+        <line>Quererme como a mí me gusta</line>
+        <line>Soy la flor encendida que da color</line>
+        <line>Al jardín de tu vida</line>
+        <line>Corazón, tú sí sabes</line>
+        <line>Quererme como a mí me gusta</line>
+        <line>Por favor, no me dejes</line>
+        <line>Que soy valiente en corresponderte</line>
+    </chorus>
+    <outro>
+        <line>Corazón, corazón tú sí sabes</line>
+        <line>(Quererme como a mí me gusta)</line>
+        <line>Corazón, tú si sabes quererme, mi amor</line>
+        <line>(Quererme como a mí me gusta)</line>
+        <line>Ay, no te vayas</line>
+        <line>Quédate por siempre</line>
+        <line>(Quererme como a mí me gusta)</line>
+        <line>Que soy valiente en corresponderte, mi amor</line>
+        <line>(Quererme como a mí me gusta)</line>
+    </outro>
+</song>

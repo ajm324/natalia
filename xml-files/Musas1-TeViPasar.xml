@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig="orig">
+    <meta>
+        <album>musas-01</album>
+        <title>Te Vi Pasar</title>
+        <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
+        <features>Los Macorinos</features>
+        <location>México</location>
+    </meta>
+    <verse>
+        <line>Hoy te he mirado sin quererlo</line>
+        <line>Te he mirado a mi lado pasar</line>
+        <line>Pasar muy cerca de mí</line>
+    </verse>
+    <verse>
+        <line>Aquellos ojos, dos cristales</line>
+        <line>Que hace tiempo reflejaron su amor</line>
+        <line>No se fijaron en mí</line>
+    </verse>
+    <verse>
+        <line>Tenía tantas cosas que decirte</line>
+        <line>Y tanto que contarte</line>
+        <line>Que ya no te pude hablar</line>
+    </verse>
+    <verse>
+        <line>Me tuve que callar mis sentimientos</line>
+        <line>No supe de tu aliento</line>
+        <line>No más te vi pasar</line>
+    </verse>
+    <verse>
+        <line>Hoy te he mirado sin quererlo</line>
+        <line>Te he mirado a mi lado pasar</line>
+        <line>Pasar muy cerca de mí</line>
+    </verse>
+    <verse>
+        <line>Me dejaste llorando</line>
+        <line>Llorando por ti</line>
+    </verse>
+</song>

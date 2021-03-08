@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig="orig">
+    <meta>
+        <album>musas-01</album>
+        <title>Tú Me Acostumbraste</title>
+        <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
+        <features>Los Macorinos, Omara Portuondo</features>
+        <location>México</location>
+    </meta>
+    <verse>
+        <line>[Omara Portuondo]</line>
+        <line>Tú me acostumbraste</line>
+        <line>A todas esas cosas</line>
+        <line>Y tú me enseñaste</line>
+        <line>Que son maravillosas</line>
+    </verse>
+    <verse>
+        <line>[Natalia Lafourcade]</line>
+        <line>Sutil, llegaste a mí como la tentación</line>
+        <line>Llenando de inquietud mi corazón</line>
+    </verse>
+    <verse>
+        <line>[Omara Portuondo y Natalia Lafourcade]</line>
+        <line>Yo no concebía cómo se quería</line>
+        <line>En tu mundo raro y por ti aprendí</line>
+        <line>Por eso me pregunto al ver que me olvidaste</line>
+        <line>Por qué no me enseñaste cómo se vive sin ti</line>
+    </verse>
+    <verse>
+        <line>[Omara Portuondo y Natalia Lafourcade]</line>
+        <line>Por eso me pregunto al ver que me olvidaste</line>
+        <line>Por qué no me enseñaste cómo se vive sin ti</line>
+        <line>Por qué no me enseñaste cómo se vive sin ti</line>
+    </verse>
+</song>

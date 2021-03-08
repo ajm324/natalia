@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig="orig">
+    <meta>
+        <album>musas-01</album>
+        <title>Soy Lo Prohibido</title>
+        <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
+        <features>Los Macorinos</features>
+        <location>México</location>
+    </meta>
+    <verse>
+        <line>Soy ese vicio de tu piel</line>
+        <line>Que ya no puedes desprender</line>
+        <line>Soy lo prohibido</line>
+    </verse>
+    <verse>
+        <line>Soy esa fiebre de tu ser</line>
+        <line>Que te domina sin querer</line>
+        <line>Soy lo prohibido</line>
+    </verse>
+    <verse>
+        <line>Soy esa noche de placer</line>
+        <line>La de la entrega sin papel</line>
+        <line>Soy tu castigo</line>
+    </verse>
+    <verse>
+        <line>Porque en tu falsa intimidad</line>
+        <line>En cada abrazo que le das</line>
+        <line>Sueñas conmigo</line>
+    </verse>
+    <verse>
+        <line>Soy el pecado que te dio</line>
+        <line>Nueva ilusión en el amor</line>
+        <line>Soy lo prohibido</line>
+    </verse>
+    <verse>
+        <line>Soy la aventura que llegó</line>
+        <line>Para ayudarte a continuar</line>
+        <line>En tu camino</line>
+    </verse>
+    <verse>
+        <line>Soy ese beso que se da</line>
+        <line>Sin que se pueda comentar</line>
+        <line>Soy ese nombre que jamás</line>
+        <line>Fuera de aquí pronunciarás</line>
+    </verse>
+    <verse>
+        <line>Soy ese amor que negaras</line>
+        <line>Para salvar tu dignidad</line>
+        <line>Soy lo prohibido</line>
+    </verse>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig="orig">
+    <meta>
+        <album>musas-01</album>
+        <title>Soledad Y El Mar</title>
+        <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
+        <features>Los Macorinos</features>
+        <location>México</location>
+    </meta>
+    <verse>
+        <line>En el canto de las olas</line>
+        <line>Encontré un rumor de luz</line>
+        <line>Por un canto de gaviotas</line>
+        <line>Supe que allí estabas tú</line>
+    </verse>
+    <verse>
+        <line>Despidiendo últimamente todo lo que sucedió</line>
+        <line>Hoy saludo a mi presente y gusto de este dulce adiós</line>
+    </verse>
+    <verse>
+        <line>Voy a navegar en tu puerto azul</line>
+        <line>Quisiera saber de dónde vienes tú</line>
+        <line>Vamos a dejar que el tiempo pare</line>
+        <line>Ver nuestros recuerdos en los mares</line>
+        <line>Y esta soledad tan profunda</line>
+    </verse>
+    <verse>
+        <line>Que en el canto de las olas me quisiera sumergir</line>
+        <line>Embriagándome en su aroma algo nuevo descubrí</line>
+    </verse>
+    <verse>
+        <line>Voy a navegar en tu puerto azul</line>
+        <line>Quisiera saber de dónde vienes tú</line>
+        <line>Vamos a dejar que el tiempo pare</line>
+        <line>Ver nuestros recuerdos en los mares</line>
+        <line>Y esta soledad tan profunda</line>
+    </verse>
+    <verse>
+        <line>Que me cante el mar</line>
+        <line>Un bolero de soledad</line>
+        <line>Que me cante el mar</line>
+        <line>Que ando sola con soledad</line>
+        <line>Que me cante el mar</line>
+        <line>Un bolero de soledad</line>
+        <line>Que me cante el mar</line>
+        <line>Que ando sola con soledad</line>
+    </verse>
+    <verse>
+        <line>Soledad y el mar</line>
+    </verse>
+</song>

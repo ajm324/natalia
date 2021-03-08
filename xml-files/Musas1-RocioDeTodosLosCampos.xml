@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig="orig">
+    <meta>
+        <album>musas-01</album>
+        <title>Rocío De Todos Los Campos</title>
+        <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
+        <features>Los Macorinos</features>
+        <location>México</location>
+    </meta>
+    <verse>
+        <line>Rocío de todos los campos</line>
+        <line>Rocío de sal en el mar</line>
+        <line>Tu baile hipnotiza la luna</line>
+        <line>Y el viento comienza a cantar</line>
+    </verse>
+    <verse>
+        <line>Tú enciendes el fuego en la noche</line>
+        <line>Escuchas los grillos hablar</line>
+        <line>Desvistes tu cuerpo y tu alma</line>
+        <line>Para en el agua nadar</line>
+    </verse>
+    <verse>
+        <line>Libre serás para siempre, para siempre</line>
+        <line>Mariposa morada entre bambú</line>
+    </verse>
+    <verse>
+        <line>Enciendes el barro en tus manos</line>
+        <line>Pasiones de amor prohibido</line>
+        <line>Enciendes el barro en tus manos</line>
+        <line>Pasiones de amor prohibido</line>
+    </verse>
+    <verse>
+        <line>Rocío de los corazones</line>
+        <line>Que van a tu casa a llorar</line>
+        <line>Rocío de todos los cielos</line>
+        <line>De fiestas y de soledad</line>
+    </verse>
+    <verse>
+        <line>Tú enciendes el fuego en la noche</line>
+        <line>Escuchas fantasmas andar</line>
+        <line>Desvistes tu cuerpo y tu alma</line>
+        <line>Para en el agua nadar</line>
+    </verse>
+    <verse>
+        <line>Libre serás para siempre, para siempre</line>
+        <line>Mariposa morada entre bambú</line>
+    </verse>
+    <verse>
+        <line>La muerte llegó, seduciendo tu encanto</line>
+        <line>Envolviendo tu manto</line>
+        <line>La muerte llegó, seduciendo tu encanto</line>
+        <line>Y te fuiste pa'l campo</line>
+    </verse>
+    <verse>
+        <line>Libre serás para siempre, para siempre</line>
+        <line>Mariposa morada entre bambú</line>
+    </verse>
+    <verse>
+        <line>Rocío de todos los campos</line>
+        <line>Libre serás</line>
+        <line>Rocío de todos los campos</line>
+        <line>Libre serás</line>
+        <line>Rocío de todos los campos</line>
+        <line>Libre serás</line>
+        <line>Rocío de todos los campos</line>
+        <line>Libre serás, libre serás</line>
+    </verse>
+</song>
