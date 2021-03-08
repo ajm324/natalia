@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
-<song>
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig = "orig">
     <meta>
         <album>canto-01</album>
         <title>Nunca Es Suficiente</title>
