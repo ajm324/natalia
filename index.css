@@ -1,0 +1,17 @@
+body {
+    background-color: BlanchedAlmond;
+}
+h1, h2 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    font-family: "Monaco", monospace;
+}
+h1 {
+    color: PaleVioletRed;
+}
+h2{
+    color: SandyBrown
+}
