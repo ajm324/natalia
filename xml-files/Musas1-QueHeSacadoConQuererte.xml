@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
-<song orig="orig">
+<song orig="cover">
     <meta>
         <album>musas-01</album>
         <title>Qué He Sacado Con Quererte</title>
@@ -9,7 +9,7 @@
         <location>México</location>
     </meta>
     <verse>
-        <line>¿Qué he sacado con la luna, ay, ay, ay</line>
+        <line>¿Qué he sacado con <assoc type="space" image="moon">la luna</assoc>, ay, ay, ay</line>
         <line>Que los dos miramos juntos, ay, ay, ay?</line>
         <line>¿Qué he sacado con los nombres, ay, ay, ay</line>
         <line>Estampados en el muro, ay, ay, ay?</line>
@@ -18,7 +18,7 @@
         <line>¡Ay, ay, ay, ay, ay!</line>
     </verse>
     <verse>
-        <line>¿Qué he sacado con el lirio, ay, ay, ay</line>
+        <line>¿Qué he sacado con <assoc type="earth" image="lily">el lirio</assoc>, ay, ay, ay</line>
         <line>Que plantamos en el patio, ay, ay, ay?</line>
         <line>No era uno el que plantaba, ay, ay, ay</line>
         <line>Eran dos enamorados, ay, ay, ay</line>
@@ -27,20 +27,20 @@
         <line>¡Ay, ay, ay, ay, ay, ay!</line>
     </verse>
     <verse>
-        <line>¿Qué he sacado con la sombra, ay, ay, ay</line>
+        <line>¿Qué he sacado con <assoc type="earth" image="shadow">la sombra</assoc>, ay, ay, ay</line>
         <line>Del aromo por testigo, ay, ay, ay</line>
-        <line>Y los cuatro pies marcados, ay, ay, ay</line>
+        <line>Y los cuatro <assoc type="body" image="feet">pies</assoc> marcados, ay, ay, ay</line>
         <line>En la orilla del camino, ay, ay, ay?</line>
         <line>¿Qué he sacado con quererte, ay, ay, ay</line>
-        <line>Clavelito florecido, ay, ay, ay?</line>
+        <line><assoc type="earth" image="carnation">Clavelito</assoc> florecido, ay, ay, ay?</line>
         <line>¡Ay, ay, ay, ay, ay, ay!</line>
     </verse>
     <verse>
-        <line>Aquí está la misma luna, ay, ay, ay</line>
+        <line>Aquí está la misma <assoc type="space" image="moon">luna</assoc>, ay, ay, ay</line>
         <line>Y en el patio el blanco lirio, ay, ay, ay</line>
         <line>Los dos nombres en el muro, ay, ay, ay</line>
         <line>Y tu rastro en el camino, ay, ay, ay</line>
-        <line>Pero tú, palomo ingrato, ay, ay, ay</line>
+        <line>Pero tú, <assoc type="earth" image="pigeon">palomo</assoc> ingrato, ay, ay, ay</line>
         <line>Ya no arrullaras en mi nido, ay, ay, ay</line>
         <line>¡Ay, ay, ay, ay!</line>
     </verse>

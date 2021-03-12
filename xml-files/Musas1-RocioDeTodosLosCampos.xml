@@ -9,54 +9,54 @@
         <location>México</location>
     </meta>
     <verse>
-        <line>Rocío de todos los campos</line>
-        <line>Rocío de sal en el mar</line>
-        <line>Tu baile hipnotiza la luna</line>
-        <line>Y el viento comienza a cantar</line>
+        <line>Rocío de todos <assoc type="earth" image="field">los campos</assoc></line>
+        <line>Rocío de sal en <assoc type="water" image="sea">el mar</assoc></line>
+        <line>Tu baile hipnotiza <assoc type="space" image="moon">la luna</assoc></line>
+        <line>Y <assoc type="air" image="wind">el viento</assoc> comienza a cantar</line>
     </verse>
     <verse>
-        <line>Tú enciendes el fuego en la noche</line>
-        <line>Escuchas los grillos hablar</line>
-        <line>Desvistes tu cuerpo y tu alma</line>
-        <line>Para en el agua nadar</line>
+        <line>Tú enciendes <assoc type="fire" image="fire">el fuego</assoc> en <assoc type="space" image="night">la noche</assoc></line>
+        <line>Escuchas <assoc type="earth" image="crickets">los grillos</assoc> hablar</line>
+        <line>Desvistes tu cuerpo y tu <assoc type="spirit" image="soul">alma</assoc></line>
+        <line>Para en <assoc type="water" image="water">el agua</assoc> nadar</line>
     </verse>
-    <verse>
+    <pre-chorus>
         <line>Libre serás para siempre, para siempre</line>
-        <line>Mariposa morada entre bambú</line>
-    </verse>
-    <verse>
-        <line>Enciendes el barro en tus manos</line>
+        <line><assoc type="earth" image="butterfly">Mariposa</assoc> morada entre <assoc type="earth" image="bamboo">bambú</assoc></line>
+    </pre-chorus>
+    <chorus>
+        <line>Enciendes <assoc type ="earth" image="mud">el barro</assoc> en tus manos</line>
         <line>Pasiones de amor prohibido</line>
         <line>Enciendes el barro en tus manos</line>
         <line>Pasiones de amor prohibido</line>
-    </verse>
+    </chorus>
     <verse>
         <line>Rocío de los corazones</line>
         <line>Que van a tu casa a llorar</line>
-        <line>Rocío de todos los cielos</line>
+        <line>Rocío de todos <assoc type="space" image="sky">los cielos</assoc></line>
         <line>De fiestas y de soledad</line>
     </verse>
     <verse>
-        <line>Tú enciendes el fuego en la noche</line>
-        <line>Escuchas fantasmas andar</line>
-        <line>Desvistes tu cuerpo y tu alma</line>
-        <line>Para en el agua nadar</line>
+        <line>Tú enciendes <assoc type="fire" image="fire">el fuego</assoc> en <assoc type="space" image="night">la noche</assoc></line>
+        <line>Escuchas <assoc type="spirit" image="ghost">fantasmas</assoc> andar</line>
+        <line>Desvistes tu cuerpo y tu <assoc type="spirit" image="soul">alma</assoc></line>
+        <line>Para en <assoc type="water" image="water">el agua</assoc> nadar</line>
     </verse>
-    <verse>
+    <pre-chorus>
         <line>Libre serás para siempre, para siempre</line>
-        <line>Mariposa morada entre bambú</line>
-    </verse>
-    <verse>
+        <line><assoc type="earth" image="butterfly">Mariposa</assoc> morada entre <assoc type="earth" image="bamboo">bambú</assoc></line>
+    </pre-chorus>
+    <chorus>
         <line>La muerte llegó, seduciendo tu encanto</line>
         <line>Envolviendo tu manto</line>
         <line>La muerte llegó, seduciendo tu encanto</line>
         <line>Y te fuiste pa'l campo</line>
-    </verse>
-    <verse>
+    </chorus>
+    <post-chorus>
         <line>Libre serás para siempre, para siempre</line>
-        <line>Mariposa morada entre bambú</line>
-    </verse>
-    <verse>
+        <line><assoc type="earth" image="butterfly">Mariposa</assoc> morada entre <assoc type="earth" image="bamboo">bambú</assoc></line>
+    </post-chorus>
+    <outro>
         <line>Rocío de todos los campos</line>
         <line>Libre serás</line>
         <line>Rocío de todos los campos</line>
@@ -65,5 +65,5 @@
         <line>Libre serás</line>
         <line>Rocío de todos los campos</line>
         <line>Libre serás, libre serás</line>
-    </verse>
+    </outro>
 </song>

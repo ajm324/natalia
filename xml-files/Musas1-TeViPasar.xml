@@ -14,7 +14,7 @@
         <line>Pasar muy cerca de mí</line>
     </verse>
     <verse>
-        <line>Aquellos ojos, dos cristales</line>
+        <line>Aquellos <assoc type="body" image="eyes">ojos</assoc>, dos cristales</line>
         <line>Que hace tiempo reflejaron su amor</line>
         <line>No se fijaron en mí</line>
     </verse>
@@ -33,8 +33,8 @@
         <line>Te he mirado a mi lado pasar</line>
         <line>Pasar muy cerca de mí</line>
     </verse>
-    <verse>
+    <outro>
         <line>Me dejaste llorando</line>
         <line>Llorando por ti</line>
-    </verse>
+    </outro>
 </song>

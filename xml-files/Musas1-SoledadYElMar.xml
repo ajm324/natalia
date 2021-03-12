@@ -9,44 +9,44 @@
         <location>México</location>
     </meta>
     <verse>
-        <line>En el canto de las olas</line>
-        <line>Encontré un rumor de luz</line>
-        <line>Por un canto de gaviotas</line>
+        <line>En el canto de <assoc type="water" image="waves">las olas</assoc></line>
+        <line>Encontré un rumor de <assoc type="fire" image="light">luz</assoc></line>
+        <line>Por un canto de <assoc type="earth" image="seagulls">gaviotas</assoc></line>
         <line>Supe que allí estabas tú</line>
     </verse>
-    <verse>
+    <pre-chorus>
         <line>Despidiendo últimamente todo lo que sucedió</line>
         <line>Hoy saludo a mi presente y gusto de este dulce adiós</line>
-    </verse>
-    <verse>
+    </pre-chorus>
+    <chorus>
         <line>Voy a navegar en tu puerto azul</line>
         <line>Quisiera saber de dónde vienes tú</line>
         <line>Vamos a dejar que el tiempo pare</line>
         <line>Ver nuestros recuerdos en los mares</line>
         <line>Y esta soledad tan profunda</line>
-    </verse>
-    <verse>
+    </chorus>
+    <pre-chorus>
         <line>Que en el canto de las olas me quisiera sumergir</line>
         <line>Embriagándome en su aroma algo nuevo descubrí</line>
-    </verse>
-    <verse>
+    </pre-chorus>
+    <chorus>
         <line>Voy a navegar en tu puerto azul</line>
         <line>Quisiera saber de dónde vienes tú</line>
         <line>Vamos a dejar que el tiempo pare</line>
         <line>Ver nuestros recuerdos en los mares</line>
         <line>Y esta soledad tan profunda</line>
-    </verse>
-    <verse>
-        <line>Que me cante el mar</line>
+    </chorus>
+    <bridge>
+        <line>Que me cante <assoc type="water" image="sea">el mar</assoc></line>
         <line>Un bolero de soledad</line>
-        <line>Que me cante el mar</line>
+        <line>Que me cante <assoc type="water" image="sea">el mar</assoc></line>
         <line>Que ando sola con soledad</line>
-        <line>Que me cante el mar</line>
+        <line>Que me cante <assoc type="water" image="sea">el mar</assoc></line>
         <line>Un bolero de soledad</line>
-        <line>Que me cante el mar</line>
+        <line>Que me cante <assoc type="water" image="sea">el mar</assoc></line>
         <line>Que ando sola con soledad</line>
-    </verse>
-    <verse>
-        <line>Soledad y el mar</line>
-    </verse>
+    </bridge>
+    <outro>
+        <line>Soledad y <assoc type="water" image="sea">el mar</assoc></line>
+    </outro>
 </song>

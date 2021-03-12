@@ -9,7 +9,7 @@
         <location>México</location>
     </meta>
     <verse>
-        <line>Soy ese vicio de tu piel</line>
+        <line>Soy ese vicio de tu <assoc type="body" image="skin">piel</assoc></line>
         <line>Que ya no puedes desprender</line>
         <line>Soy lo prohibido</line>
     </verse>
@@ -19,7 +19,7 @@
         <line>Soy lo prohibido</line>
     </verse>
     <verse>
-        <line>Soy esa noche de placer</line>
+        <line>Soy esa <assoc type="earth" image="night">noche</assoc> de placer</line>
         <line>La de la entrega sin papel</line>
         <line>Soy tu castigo</line>
     </verse>

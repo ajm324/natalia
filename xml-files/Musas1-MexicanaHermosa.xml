@@ -11,14 +11,14 @@
     <verse>
         <line><place>Mexicana</place> hermosa, <assoc type = "country" image = "flag">bandera latina</assoc></line>
         <line>No te pongas triste, solo mira al <assoc type="space" image="sky">cielo</assoc></line>
-        <line>Si <assoc type="space" image="stars">la noche se cubre de estrellas</assoc></line>
+        <line>Si <assoc type="earth" image="night">la noche</assoc> se cubre de <assoc type="space" image="stars">estrellas</assoc></line>
         <line>Ya nosotros pasamos el duelo</line>
-        <line>Si <assoc type = "space" image = "stars">la noche se cubre de estrellas</assoc></line>
+        <line>Si <assoc type="earth" image="night">la noche</assoc> se cubre de <assoc type = "space" image = "stars">estrellas</assoc></line>
         <line>Ya nosotros calmamos la pena</line>
     </verse>
     <chorus>
         <line>No te pongas triste, solo mira al <assoc type="space" image="sky">cielo</assoc></line>
-        <line>Que la <assoc type="earth" image="night">noche</assoc> es buena pa reconciliar los <assoc type="spirit" image="dreams">sueños</assoc></line>
+        <line>Que <assoc type="earth" image="night">la noche</assoc> es buena pa reconciliar los <assoc type="spirit" image="dreams">sueños</assoc></line>
         <line>No te pongas triste, que tus ojos negros</line>
         <line>Son la llama inquieta, dulce ardor en mi consuelo</line>
     </chorus>
@@ -32,7 +32,7 @@
     </verse>
     <chorus>
         <line>No te pongas triste, solo mira al <assoc type ="space" image="sky">cielo</assoc></line>
-        <line>Que la <assoc type="earth" image="night">noche</assoc> es buena pa reconciliar los <assoc type="spirit" image="dreams">sueños</assoc></line>
+        <line>Que <assoc type="earth" image="night">la noche</assoc> es buena pa reconciliar los <assoc type="spirit" image="dreams">sueños</assoc></line>
         <line>No te pongas triste, que tus ojos negros</line>
         <line>Son la llama inquieta, dulce ardor en mi consuelo</line>
     </chorus>
