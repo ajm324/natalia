@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
-<song orig="orig">
+<song orig="cover">
     <meta>
         <album>musas-01</album>
         <title>Te Vi Pasar</title>
-        <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
+        <writers>Agustín Lara</writers>
         <features>Los Macorinos</features>
         <location>México</location>
     </meta>

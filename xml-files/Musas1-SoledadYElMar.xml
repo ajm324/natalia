@@ -4,7 +4,7 @@
     <meta>
         <album>musas-01</album>
         <title>Soledad Y El Mar</title>
-        <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
+        <writers>Natalia Lafourcade, David Aguilar</writers>
         <features>Los Macorinos</features>
         <location>México</location>
     </meta>
@@ -19,21 +19,21 @@
         <line>Hoy saludo a mi presente y gusto de este dulce adiós</line>
     </pre-chorus>
     <chorus>
-        <line>Voy a navegar en tu puerto azul</line>
+        <line>Voy a navegar en tu <assoc type="water" image = "port">puerto azul</assoc></line>
         <line>Quisiera saber de dónde vienes tú</line>
         <line>Vamos a dejar que el tiempo pare</line>
-        <line>Ver nuestros recuerdos en los mares</line>
+        <line>Ver nuestros recuerdos en <assoc type="water" image="seas">los mares</assoc></line>
         <line>Y esta soledad tan profunda</line>
     </chorus>
     <pre-chorus>
-        <line>Que en el canto de las olas me quisiera sumergir</line>
+        <line>Que en el canto de <assoc type="water" image="waves">las olas</assoc> me quisiera sumergir</line>
         <line>Embriagándome en su aroma algo nuevo descubrí</line>
     </pre-chorus>
     <chorus>
-        <line>Voy a navegar en tu puerto azul</line>
+        <line>Voy a navegar en tu <assoc type="water" image = "port">puerto azul</assoc></line>
         <line>Quisiera saber de dónde vienes tú</line>
         <line>Vamos a dejar que el tiempo pare</line>
-        <line>Ver nuestros recuerdos en los mares</line>
+        <line>Ver nuestros recuerdos en <assoc type="water" image="seas">los mares</assoc></line>
         <line>Y esta soledad tan profunda</line>
     </chorus>
     <bridge>

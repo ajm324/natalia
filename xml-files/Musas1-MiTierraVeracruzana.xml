@@ -4,9 +4,9 @@
     <meta>
         <album>musas-01</album>
         <title>Mi Tierra Veracruzana</title>
-        <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
+        <writers>Natalia Lafourcade</writers>
         <features>Los Macorinos</features>
-        <location>Mexico</location>
+        <location>México</location>
     </meta>
     <verse>
         <line>En mi <assoc type="earth" image="land">tierra</assoc> <place>veracruzana</place></line>
@@ -15,9 +15,9 @@
         <line>Pa' ponerme a mover los pies</line>
     </verse>
     <verse>
-        <line>De la penca de una banana</line>
-        <line>De su verde morena <assoc type="earth" image="skin">piel</assoc></line>
-        <line>Ando toda <assoc type="spirit" image="love">re-enamorada</assoc></line>
+        <line>De la penca de una <assoc type="earth" image = "banana">banana</assoc></line>
+        <line>De su verde morena piel</line>
+        <line>Ando toda re-enamorada</line>
         <line>Sólo quiero volverte a ver</line>
     </verse>
     <chorus>
@@ -75,7 +75,7 @@
         <line>Pa' ponerme a mover los a pies</line>
     </verse>
     <verse>
-        <line>De la penca de una banana</line>
+        <line>De la penca de una <assoc type="earth" image="banana">banana</assoc></line>
         <line>De su verde morena piel</line>
         <line>Ando toda re-enamorada</line>
         <line>Sólo quiero volverte a ver</line>

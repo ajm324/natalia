@@ -4,7 +4,7 @@
     <meta>
         <album>musas-01</album>
         <title>Rocío De Todos Los Campos</title>
-        <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
+        <writers>Natalia Lafourcade</writers>
         <features>Los Macorinos</features>
         <location>México</location>
     </meta>
@@ -50,20 +50,20 @@
         <line>La muerte llegó, seduciendo tu encanto</line>
         <line>Envolviendo tu manto</line>
         <line>La muerte llegó, seduciendo tu encanto</line>
-        <line>Y te fuiste pa'l campo</line>
+        <line>Y te fuiste pa'l <assoc type="earth" image = "field">campo</assoc></line>
     </chorus>
     <post-chorus>
         <line>Libre serás para siempre, para siempre</line>
         <line><assoc type="earth" image="butterfly">Mariposa</assoc> morada entre <assoc type="earth" image="bamboo">bambú</assoc></line>
     </post-chorus>
     <outro>
-        <line>Rocío de todos los campos</line>
+        <line>Rocío de todos <assoc type="earth" image="fields">los campos</assoc></line>
         <line>Libre serás</line>
-        <line>Rocío de todos los campos</line>
+        <line>Rocío de todos <assoc type="earth" image="fields">los campos</assoc></line>
         <line>Libre serás</line>
-        <line>Rocío de todos los campos</line>
+        <line>Rocío de todos <assoc type="earth" image="fields">los campos</assoc></line>
         <line>Libre serás</line>
-        <line>Rocío de todos los campos</line>
+        <line>Rocío de todos <assoc type="earth" image="fields">los campos</assoc></line>
         <line>Libre serás, libre serás</line>
     </outro>
 </song>

@@ -4,7 +4,7 @@
     <meta>
         <album>musas-01</album>
         <title>Qué He Sacado Con Quererte</title>
-        <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
+        <writers>Violeta Parra Sandoval</writers>
         <features>Los Macorinos</features>
         <location>México</location>
     </meta>
@@ -14,12 +14,12 @@
         <line>¿Qué he sacado con los nombres, ay, ay, ay</line>
         <line>Estampados en el muro, ay, ay, ay?</line>
         <line>Como cambia el calendario, ay, ay, ay</line>
-        <line>Cambia todo en este mundo, ay, ay, ay</line>
+        <line>Cambia todo en <assoc type="earth" image="Earth">este mundo</assoc>, ay, ay, ay</line>
         <line>¡Ay, ay, ay, ay, ay!</line>
     </verse>
     <verse>
         <line>¿Qué he sacado con <assoc type="earth" image="lily">el lirio</assoc>, ay, ay, ay</line>
-        <line>Que plantamos en el patio, ay, ay, ay?</line>
+        <line>Que <assoc type = "earth" image = "planting">plantamos</assoc> en el patio, ay, ay, ay?</line>
         <line>No era uno el que plantaba, ay, ay, ay</line>
         <line>Eran dos enamorados, ay, ay, ay</line>
         <line>Hortelano, tú plantío, ay, ay, ay</line>
@@ -37,7 +37,7 @@
     </verse>
     <verse>
         <line>Aquí está la misma <assoc type="space" image="moon">luna</assoc>, ay, ay, ay</line>
-        <line>Y en el patio el blanco lirio, ay, ay, ay</line>
+        <line>Y en el patio el blanco <assoc type="earth" image="lily">lirio</assoc>, ay, ay, ay</line>
         <line>Los dos nombres en el muro, ay, ay, ay</line>
         <line>Y tu rastro en el camino, ay, ay, ay</line>
         <line>Pero tú, <assoc type="earth" image="pigeon">palomo</assoc> ingrato, ay, ay, ay</line>
