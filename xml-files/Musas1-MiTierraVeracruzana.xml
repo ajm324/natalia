@@ -1,106 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song orig="orig">   
+<?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<song orig="orig">
     <meta>
         <album>musas-01</album>
         <title>Mi Tierra Veracruzana</title>
         <writers>Natalia Lafourcade, Gustavo Guerrero</writers>
         <features>Los Macorinos</features>
-        <location>México</location>
+        <location>Mexico</location>
     </meta>
-<verse>
-<line>En mi tierra veracruzana</line>
-<line>Sólo quiero tomar café</line>
-<line>Un poquito de azúcar y caña</line>
-<line>Pa' ponerme a mover los pies</line>
-</verse>
-<verse>
-<line>De la penca de una banana</line>
-<line>De su verde morena piel</line>
-<line>Ando toda re-enamorada</line>
-<line>Sólo quiero volverte a ver</line>
-</verse>
-<verse>
-<line>Volverte a ver</line>
-<line>Volverte a ver</line>
-<line>Mi tierra veracruzana te quiero ver</line>
-<line>Volverte a ver</line>
-<line>Volverte a ver</line>
-<line>Mi tierra veracruzana te quiero querer</line>
-</verse>
-<verse>
-<line>En mi tierra veracruzana</line>
-<line>Sólo quiero abrazar el mar</line>
-<line>Ver la noche cosí una hamaca</line>
-<line>De la mañana solo cantar</line>
-</verse>
-<verse>
-<line>En el campo enterrar las piernas</line>
-<line>En la arena sólo bailar</line>
-<line>En el barco entregar mis sueños</line>
-<line>Y mi casa pa' huevonear</line>
-</verse>
-<verse>
-<line>Volverte a ver</line>
-<line>Volverte a ver</line>
-<line>Mi tierra veracruzana te quiero ver</line>
-<line>Volverte a ver</line>
-<line>Volverte a ver</line>
-<line>Mi tierra veracruzana te quiero querer</line>
-</verse>
-<verse>
-<line>No hay un día que pase que no te piense</line>
-<line>Esta lejanía me hace extráñarte</line>
-<line>No hay un día que pase que no te piense</line>
-<line>Pinto melodías con tus paisajes</line>
-<line>Con tus paisajes de verde limón</line>
-<line>Un rosa guayaba que uso pa' amor</line>
-<line>Un rojo-amarillo pitalla la flor</line>
-<line>Azul de tu golfo y rojo pasión</line>
-</verse>
-<verse>
-<line>Volverte a ver</line>
-<line>Volverte a ver</line>
-<line>Yo te quiero querer</line>
-<line>Volverte a ver</line>
-<line>Volverte a ver</line>
-</verse>
-<verse>
-<line>Café con pan [x7]</line>
-</verse>
-<verse>
-<line>En mi tierra veracruzana</line>
-<line>Sólo quiero tomar café</line>
-<line>Un poquito de azúcar y caña</line>
-<line>Pa' ponerme a mover los pies</line>
-</verse>
-<verse>
-<line>De la penca de una banana</line>
-<line>De su verde morena piel</line>
-<line>Ando toda re-enamorada</line>
-<line>Sólo quiero volverte a ver</line>
-</verse>
-<verse>
-<line>Volverte a ver</line>
-<line>Volverte a ver</line>
-<line>Mi tierra veracruzana te quiero ver</line>
-<line>Volverte a ver</line>
-<line>Volverte a ver</line>
-<line>Mi tierra veracruzana te quiero querer</line>
-</verse>
-<verse>
-<line>Volverte a ver</line>
-<line>Volverte a ver</line>
-<line>Volverte a ver</line>
-<line>Mi tierra veracruzana te quiero ver</line>
-</verse>
-<verse>
-<line>Volverte a ver</line>
-<line>Volverte a ver</line>
-<line>Volverte a ver</line>
-<line>Mi tierra veracruzana</line>
-<line>Yo te quiero querer</line>
-</verse>
-<verse>
-<line>¡Bamba!</line>
-</verse>
+    <verse>
+        <line>En mi <assoc type="earth" image="land">tierra</assoc> <place>veracruzana</place></line>
+        <line>Sólo quiero tomar café</line>
+        <line>Un poquito de azúcar y <assoc type="earth" image="cane">caña</assoc></line>
+        <line>Pa' ponerme a mover los pies</line>
+    </verse>
+    <verse>
+        <line>De la penca de una banana</line>
+        <line>De su verde morena <assoc type="earth" image="skin">piel</assoc></line>
+        <line>Ando toda <assoc type="spirit" image="love">re-enamorada</assoc></line>
+        <line>Sólo quiero volverte a ver</line>
+    </verse>
+    <verse>
+        <line>Volverte a ver</line>
+        <line>Volverte a ver</line>
+        <line>Mi <assoc type="earth" image="land">tierra</assoc> <place>veracruzana</place> te quiero ver</line>
+        <line>Volverte a ver</line>
+        <line>Volverte a ver</line>
+        <line>Mi <assoc type="earth" image="land">tierra</assoc> <place>veracruzana</place> te quiero querer</line>
+    </verse>
+    <verse>
+        <line>En mi <assoc type="earth" image="land">tierra</assoc> <place>veracruzana</place></line>
+        <line>Sólo quiero abrazar <assoc type="water" image="sea">el mar</assoc></line>
+        <line>Ver la noche cosí una hamaca</line>
+        <line>De la mañana solo cantar</line>
+    </verse>
+    <verse>
+        <line>En el campo enterrar las piernas</line>
+        <line>En la arena sólo bailar</line>
+        <line>En el barco entregar mis <assoc type="spirit" image="dreams">sueños</assoc></line>
+        <line>Y mi casa pa' huevonear</line>
+    </verse>
+    <verse>
+        <line>Volverte a ver</line>
+        <line>Volverte a ver</line>
+        <line>Mi <assoc type="earth" image="land">tierra</assoc> <place>veracruzana</place> te quiero ver</line>
+        <line>Volverte a ver</line>
+        <line>Volverte a ver</line>
+        <line>Mi <assoc type="earth" image="land">tierra</assoc> <place>veracruzana</place> te quiero querer</line>
+    </verse>
+    <verse>
+        <line>No hay un día que pase que no te piense</line>
+        <line>Esta lejanía me hace extráñarte</line>
+        <line>No hay un día que pase que no te piense</line>
+        <line>Pinto melodías con tus <assoc type="earth" image="land">paisajes</assoc></line>
+        <line>Con tus  <assoc type="earth" image="land">paisajes</assoc> de verde limón</line>
+        <line>Un rosa <assoc type="earth" image="guava">guayaba</assoc> que uso pa' amor</line>
+        <line>Un rojo-amarillo <assoc type="earth" image="pitaya">>pitalla</assoc> la flor</line>
+        <line>Azul de tu <assoc type="earth" image="gulf">golfo</assoc> y rojo pasión</line>
+    </verse>
+    <verse>
+        <line>Volverte a ver</line>
+        <line>Volverte a ver</line>
+        <line>Yo te quiero querer</line>
+        <line>Volverte a ver</line>
+        <line>Volverte a ver</line>
+    </verse>
+    <verse>
+        <line>Café con pan [x7]</line>
+    </verse>
+    <verse>
+        <line>En mi <assoc type="earth" image="land">tierra</assoc> <place>veracruzana</place></line>
+        <line>Sólo quiero tomar <assoc type="earth" image="cane">caña</assoc></line>
+        <line>Un poquito de azúcar y <assoc type="earth" image="cane">caña</assoc></line>
+        <line>Pa' ponerme a mover los a pies</line>
+    </verse>
+    <verse>
+        <line>De la penca de una banana</line>
+        <line>De su verde morena piel</line>
+        <line>Ando toda re-enamorada</line>
+        <line>Sólo quiero volverte a ver</line>
+    </verse>
+    <verse>
+        <line>Volverte a ver</line>
+        <line>Volverte a ver</line>
+        <line>Mi tierra veracruzana te quiero ver</line>
+        <line>Volverte a ver</line>
+        <line>Volverte a ver</line>
+        <line>Mi tierra veracruzana te quiero querer</line>
+    </verse>
+    <verse>
+        <line>Volverte a ver</line>
+        <line>Volverte a ver</line>
+        <line>Volverte a ver</line>
+        <line>Mi tierra veracruzana te quiero ver</line>
+    </verse>
+    <verse>
+        <line>Volverte a ver</line>
+        <line>Volverte a ver</line>
+        <line>Volverte a ver</line>
+        <line>Mi tierra veracruzana</line>
+        <line>Yo te quiero querer</line>
+    </verse>
+    <verse>
+        <line>¡Bamba!</line>
+    </verse>
 </song>
