@@ -13,7 +13,7 @@
 <line>Tus ojitos que contemplo con delirio</line>
 <line>Yo los quiero y los adoro con empeño</line>
 <line>Tienen la palidez de mi martirio</line>
-<line>Y la dulce mirada del <assoc type = "spirit" image = "dreams">ensueño</assoc></line>
+<line>Y la dulce mirada del <assoc type = "spirit" image = "daydream">ensueño</assoc></line>
 <line>¡Ay! Y la dulce mirada del ensueño</line>
 </verse>
 
@@ -28,7 +28,7 @@
 <verse>
 <line>Bendito es el amor, bendito sea</line>
 <line>Bendito es el amor, bendito sea</line>
-<line>¡Oh, imagen adorada del ensueño!</line>
+<line>¡Oh, imagen adorada del <assoc type="spirit" image="daydream">ensueño</assoc>!</line>
 <line>Deja que con mi canto tu <assoc type = "spirit" image = "soul">alma</assoc> sepa</line>
 <line>Cómo yo te adoro con empeño</line>
 <line>¡Ay! Bendito es el amor, bendito sea</line>

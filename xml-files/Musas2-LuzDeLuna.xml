@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
-<song orig = "orig">
+<song orig = "cover">
     <meta>
         <album>musas-02</album>
         <title>Luz De Luna</title>
         <writers>Álvaro Carrillo</writers>
         <features>Los Macorinos</features>
-        <style>Huapango</style>
     </meta>
 
 <verse>
@@ -32,7 +31,7 @@
 <line>De la farra y del dolor</line>
 <line>Si llevo tus cadenas a rastras</line>
 <line>En la <assoc type = "space" image = "night">noche</assoc> callada</line>
-<line>Que sea plenilunada</line>
+<line>Que sea <assoc type="space" image="full moon">plenilunada</assoc></line>
 <line>Azul como ninguna</line>
 </verse>
 

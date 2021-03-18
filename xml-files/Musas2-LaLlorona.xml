@@ -48,9 +48,9 @@
     
 <chorus>
 <line>¡Ay de mí!, Llorona, Llorona</line>
-<line>Llorona de un campo lírio</line>
+<line>Llorona de un <assoc type="earth" image="field">campo</assoc> lírio</line>
 <line>¡Ay de mí!, Llorona, Llorona</line>
-<line>Llorona de un campo lírio</line>
+<line>Llorona de un <assoc type="earth" image="field">campo</assoc> lírio</line>
 </chorus>
     
 <verse>
@@ -74,9 +74,9 @@
     
 <chorus>
 <line>¡Ay de mí!, Llorona, Llorona</line>
-<line>Llorona llévame al río</line>
+<line>Llorona llévame al <assoc type="water" image="river">río</assoc></line>
 <line>¡Ay de mí!, Llorona, Llorona</line>
-<line>Llorona llévame al río</line>
+<line>Llorona llévame al <assoc type="water" image="rio">río</assoc></line>
 </chorus>
     
 <verse>

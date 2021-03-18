@@ -6,7 +6,6 @@
        <title>Humanidad</title>
        <writers>Alberto Domínguez</writers>
        <features>Los Macorinos</features>
-       <style>Huapango</style>
    </meta>
 
 <verse>
@@ -48,7 +47,7 @@
 </chorus>
     
 <verse>
-<line>Si rodando los dos por el mundo</line>
+<line>Si rodando los dos por el <assoc type="earth" image="world">mundo</assoc></line>
 <line>Un encuentro nos diera el ocaso</line>
 <line>Sólo un beso, tal vez un abrazo</line>
 <line>Te daré, nada más te daré</line>

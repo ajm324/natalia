@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
-<song orig = "orig">
+<song orig = "cover">
     <meta>
         <album>musas-02</album>
         <title>Duerme negrito</title>
         <writers>Atahualpa Yupanqui</writers>
         <features>Los Macorinos</features>
-        <style>Huapango</style>
     </meta>
 
 <chorus>
 <line>Duerme, duerme, negrito</line>
 <line>Que tu mamá está en el <assoc type = "earth" image = "field">campo</assoc>, negrito</line>
 <line>Duerme, duerme, negrito</line>
-<line>Que tu mamá está en el campo, negrito</line>
+<line>Que tu mamá está en el <assoc type="earth" image="field">campo</assoc>, negrito</line>
 </chorus>
     
 <chorus>
-<line>Te va a traer <assoc type = "earth" image = "quail">codornices para ti</assoc></line>
+<line>Te va a traer <assoc type = "earth" image = "quail">codornices</assoc> para ti</line>
 <line>Te va a traer rica <assoc type = "earth" image = "fruit">fruta</assoc> para ti</line>
 <line>Te va a traer <assoc type = "earth" image = "pork">carne de cerdo</assoc> para ti</line>
 <line>Te va a traer tanta cosa para ti</line>
@@ -43,7 +42,7 @@
 </bridge>
 
 <chorus>
-<line>Te va a traer <assoc type = "earth" image = "quail">codornices para ti</assoc> para ti</line>
+<line>Te va a traer <assoc type = "earth" image = "quail">codornices</assoc> para ti para ti</line>
 <line>Te va a traer rica <assoc type = "earth" image = "fruit">fruta</assoc> para ti</line>
 <line>Te va a traer <assoc type = "earth" image = "pork">carne de cerdo</assoc> para ti</line>
 <line>Te va a traer tanta cosa para ti</line>
@@ -51,7 +50,7 @@
     
 <chorus>
 <line>Duerme, duerme, negrito</line>
-<line>Que tu mamá está en el campo, negrito</line>
+<line>Que tu mamá está en el <assoc type="earth" image="field">campo</assoc>, negrito</line>
 </chorus>
     
 <verse>

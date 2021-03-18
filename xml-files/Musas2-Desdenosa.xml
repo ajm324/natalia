@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../natalia-schema.rnc" type="application/relax-ng-compact-syntax"?>
-<song orig = "orig">
+<song orig = "cover">
     <meta>
         <album>musas-02</album>
         <title>Desdeñosa</title>
         <writers>Benigno Lara Foster</writers>
         <features>Eugenia León, Omara Portuondo, Los Macorinos</features>
-        <style>Huapango</style>
     </meta>
 
 <chorus>

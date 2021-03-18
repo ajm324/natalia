@@ -12,18 +12,18 @@
 <line>Hoy</line>
 <line><assoc type = "earth" image = "dove">Palomito blanco</assoc></line>
 <line>No le llores tanto</line>
-<line><assoc type = "earth" image = "dove">A tú paloma negra</assoc></line>
+<line>A tú <assoc type = "earth" image = "dove">paloma negra</assoc></line>
 <line>Marisol morena siempre te amará</line>
 <line>Hoy</line>
 <line>Ese tuyo llanto se convierte</line>
 <line>En canto y va a ser escuchado</line>
-<line><assoc type = "space" image = "sky">Por el cielo</assoc>, y pronto</line>
+<line>Por <assoc type = "space" image = "sky">el cielo</assoc>, y pronto</line>
 <line>Libre volarás</line>
 </verse>
 
 <verse>
 <line>¡Ay!</line>
-<line><assoc type = "spirit" image = "soul">Que me parte el alma</assoc></line>
+<line>Que me parte <assoc type = "spirit" image = "soul">el alma</assoc></line>
 <line>Que muera la esperanza</line>
 <line>Y toda la dulzura del amor</line>
 <line>En tí</line>
@@ -38,25 +38,25 @@
 <line>Tú</line>
 <line><assoc type = "earth" image = "dove">Palomito blanco</assoc></line>
 <line>Que entregaste tanto</line>
-<line><assoc type = "earth" image = "dove">Tu paloma negra</assoc> dejará una estela</line>
+<line>Tu <assoc type = "earth" image = "dove">paloma negra</assoc> dejará una estela</line>
 <line>Que te alumbrará</line>
 <line>Hoy</line>
 <line>Ese tuyo llanto</line>
-<line>Se <assoc type = "water" image = "river">convierte en río</assoc></line>
+<line>Se convierte en <assoc type = "water" image = "river">río</assoc></line>
 <line>De tus ojos santos</line>
-<line><assoc type = "earth" image = "flower">Y una flor marchita reflorecerá</assoc></line>
+<line>Y <assoc type = "earth" image = "flower">una flor marchita</assoc> reflorecerá</line>
 </verse>
 
 <chorus>
 <line>Florecerá, Florecerá</line>
 <line>Ese antiguo encanto dentro de tu pecho reflorecerá</line>
 <line>Florecerá, Florecerá</line>
-<line><assoc type = "earth" image = "flower">Una danza llena de gardenias</assoc> plenas reflorecerá</line>
+<line>Una danza llena de <assoc type = "earth" image = "flower">gardenias</assoc> plenas reflorecerá</line>
 </chorus>
 
 <verse>
 <line>¡Ay!</line>
- <line><assoc type = "spirit" image = "soul">Es que me parte el alma</assoc></line>
+ <line>Es que me parte <assoc type = "spirit" image = "soul">el alma</assoc></line>
 <line>Que muera la esperanza</line>
 <line>Y toda la dulzura del amor</line>
 <line>En tí</line>
@@ -71,7 +71,7 @@
 <line>Florecerá, Florecerá</line>
 <line>Ese antiguo encanto dentro de tu pecho reflorecerá</line>
 <line>Florecerá, Florecerá</line>
-<line><assoc type = "earth" image = "flower">Una danza llena de gardenias</assoc> plenas reflorecerá</line>
+<line>Una danza llena de <assoc type = "earth" image = "flower">gardenias</assoc> plenas reflorecerá</line>
 </chorus>
 
 <verse>
@@ -92,7 +92,7 @@
 <line>Florecerá, florecerá</line>
 <line>Ese antiguo encanto dentro de tu pecho reflorecerá</line>
 <line>Florecerá, florecerá</line>
-<line><assoc type = "earth" image = "flower">Un danza llena de gardenias</assoc> plenas reflorecerá</line>
+<line>Un danza llena de <assoc type = "earth" image = "flower">gardenias</assoc> plenas reflorecerá</line>
 </chorus>
 
 </song>
