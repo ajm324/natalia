@@ -20,7 +20,7 @@
     <verse>
         <line>¿Qué he sacado con <assoc type="earth" image="lily">el lirio</assoc>, ay, ay, ay</line>
         <line>Que <assoc type = "earth" image = "planting">plantamos</assoc> en el patio, ay, ay, ay?</line>
-        <line>No era uno el que plantaba, ay, ay, ay</line>
+        <line>No era uno el que <assoc type="earth" image="planting">plantaba</assoc>, ay, ay, ay</line>
         <line>Eran dos enamorados, ay, ay, ay</line>
         <line>Hortelano, tú plantío, ay, ay, ay</line>
         <line>Con el tiempo no ha cambiado, ay, ay, ay</line>

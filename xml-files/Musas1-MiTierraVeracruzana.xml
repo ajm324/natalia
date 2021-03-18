@@ -56,7 +56,7 @@
         <line>Con tus  <assoc type="earth" image="land">paisajes</assoc> de verde limón</line>
         <line>Un rosa <assoc type="earth" image="guava">guayaba</assoc> que uso pa' amor</line>
         <line>Un rojo-amarillo <assoc type="earth" image="pitaya">>pitalla</assoc> la flor</line>
-        <line>Azul de tu <assoc type="earth" image="gulf">golfo</assoc> y rojo pasión</line>
+        <line>Azul de tu <assoc type="water" image="gulf">golfo</assoc> y rojo pasión</line>
     </bridge>
     <chorus>
         <line>Volverte a ver</line>

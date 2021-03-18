@@ -9,7 +9,7 @@
         <location>México</location>
     </meta>
     <verse>
-        <line>Yo vidé una garza mora</line>
+        <line>Yo vidé una <assoc type="earth" image="heron">garza</assoc> mora</line>
         <line>Dándole combate a <assoc type="water" image="river">un rio</assoc></line>
         <line>Así es como se enamora</line>
         <line>Tu <assoc type="body" image="heart">corazón</assoc> con el mío</line>
