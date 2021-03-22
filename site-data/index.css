@@ -15,3 +15,37 @@ h1 {
 h2{
     color: SandyBrown
 }
+nav {
+    text-align: center;
+    margin: 0px;
+    font-family: "Monaco", monospace;
+    font-size: 18px;
+    font-weight: 400;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+}
+li {
+    padding-left: 35px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+a:link {
+    text-decoration: none;
+    color: LightPink;
+}
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+section {
+    background-color: PaleVioletRed;
+    position: sticky;
+    top: 0;   
+}
+   
