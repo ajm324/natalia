@@ -45,7 +45,6 @@ a:hover {
 }
 section {
     background-color: PaleVioletRed;
-    position: sticky;
-    top: 0;   
+    position: sticky; 
 }
    
