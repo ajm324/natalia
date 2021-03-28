@@ -48,9 +48,9 @@
 </verse>
 
 <chorus>
-<line>Florecerá, Florecerá</line>
-<line>Ese antiguo encanto dentro de tu pecho reflorecerá</line>
-<line>Florecerá, Florecerá</line>
+<line><assoc type="earth" image="flower">Florecerá, Florecerá</assoc></line>
+<line>Ese antiguo encanto dentro de tu pecho <assoc type="earth" image="flower">reflorecerá</assoc></line>
+<line><assoc type="earth" image="flower">Florecerá, Florecerá</assoc></line>
 <line>Una danza llena de <assoc type = "earth" image = "flower">gardenias</assoc> plenas reflorecerá</line>
 </chorus>
 
@@ -68,30 +68,30 @@
 </verse>
 
 <chorus>
-<line>Florecerá, Florecerá</line>
+<line><assoc type="earth" image="flower">Florecerá, Florecerá</assoc></line>
 <line>Ese antiguo encanto dentro de tu pecho reflorecerá</line>
-<line>Florecerá, Florecerá</line>
+<line><assoc type="earth" image="flower">Florecerá, Florecerá</assoc></line>
 <line>Una danza llena de <assoc type = "earth" image = "flower">gardenias</assoc> plenas reflorecerá</line>
 </chorus>
 
 <verse>
-<line>(Florecerá, florecerá)</line>
+<line>(<assoc type="earth" image="flower">Florecerá, Florecerá</assoc>)</line>
 <line>Una danza de gardenias plenas</line>
 <line>Que dejaron estala que te alumbra</line>
 <line>En ese antiguo encanto</line>
 <line>Que en tu pecho reflorecerá</line>
-<line>(Florecerá, florecerá)</line>
+<line>(<assoc type="earth" image="flower">Florecerá, Florecerá</assoc>)</line>
 <line>Un danza llena de gardenias plenas reflorecerá</line>
-<line>(Florecerá, florecerá)</line>
+<line>(<assoc type="earth" image="flower">Florecerá, Florecerá</assoc>)</line>
 <line>Que tu <assoc type = "earth" image = "dove">paloma negra</assoc></line>
 <line>Tu Marisol morena te amará, te amará</line>
-<line>Reflorecerá</line>
+<line><assoc type="earth" image="flower"></assoc>Reflorecerá</line>
 </verse>
 
 <chorus>
-<line>Florecerá, florecerá</line>
+<line><assoc type="earth" image="flower">Florecerá, florecerá</assoc></line>
 <line>Ese antiguo encanto dentro de tu pecho reflorecerá</line>
-<line>Florecerá, florecerá</line>
+<line><assoc type="earth" image="flower">Florecerá, florecerá</assoc></line>
 <line>Un danza llena de <assoc type = "earth" image = "flower">gardenias</assoc> plenas reflorecerá</line>
 </chorus>
 

@@ -9,8 +9,8 @@
         <location>México</location>
     </meta>
     <verse>
-        <line>Rocío de todos <assoc type="earth" image="field">los campos</assoc></line>
-        <line>Rocío de sal en <assoc type="water" image="sea">el mar</assoc></line>
+        <line><assoc type="water" image="dew">Rocío</assoc> de todos <assoc type="earth" image="field">los campos</assoc></line>
+        <line><assoc type="water" image="dew">Rocío de sal</assoc> en <assoc type="water" image="sea">el mar</assoc></line>
         <line>Tu baile hipnotiza <assoc type="space" image="moon">la luna</assoc></line>
         <line>Y <assoc type="air" image="wind">el viento</assoc> comienza a cantar</line>
     </verse>
@@ -31,14 +31,14 @@
         <line>Pasiones de amor prohibido</line>
     </chorus>
     <verse>
-        <line>Rocío de los corazones</line>
+        <line><assoc type="water" image="dew">Rocío</assoc> de los corazones</line>
         <line>Que van a tu casa a llorar</line>
-        <line>Rocío de todos <assoc type="space" image="sky">los cielos</assoc></line>
+        <line><assoc type="water" image="dew">Rocío</assoc> de todos <assoc type="space" image="sky">los cielos</assoc></line>
         <line>De fiestas y de soledad</line>
     </verse>
     <verse>
         <line>Tú enciendes <assoc type="fire" image="fire">el fuego</assoc> en <assoc type="space" image="night">la noche</assoc></line>
-        <line>Escuchas <assoc type="spirit" image="ghost">fantasmas</assoc> andar</line>
+        <line>Escuchas fantasmas andar</line>
         <line>Desvistes tu cuerpo y tu <assoc type="spirit" image="soul">alma</assoc></line>
         <line>Para en <assoc type="water" image="water">el agua</assoc> nadar</line>
     </verse>
@@ -57,13 +57,13 @@
         <line><assoc type="earth" image="butterfly">Mariposa</assoc> morada entre <assoc type="earth" image="bamboo">bambú</assoc></line>
     </post-chorus>
     <outro>
-        <line>Rocío de todos <assoc type="earth" image="fields">los campos</assoc></line>
+        <line><assoc type="water" image="dew">Rocío</assoc> de todos <assoc type="earth" image="fields">los campos</assoc></line>
         <line>Libre serás</line>
-        <line>Rocío de todos <assoc type="earth" image="fields">los campos</assoc></line>
+        <line><assoc type="water" image="dew">Rocío</assoc> de todos <assoc type="earth" image="fields">los campos</assoc></line>
         <line>Libre serás</line>
-        <line>Rocío de todos <assoc type="earth" image="fields">los campos</assoc></line>
+        <line><assoc type="water" image="dew">Rocío</assoc> de todos <assoc type="earth" image="fields">los campos</assoc></line>
         <line>Libre serás</line>
-        <line>Rocío de todos <assoc type="earth" image="fields">los campos</assoc></line>
+        <line><assoc type="water" image="dew">Rocío</assoc> de todos <assoc type="earth" image="fields">los campos</assoc></line>
         <line>Libre serás, libre serás</line>
     </outro>
 </song>

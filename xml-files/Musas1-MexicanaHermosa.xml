@@ -9,7 +9,7 @@
         <location>México</location>
     </meta>
     <verse>
-        <line><place>Mexicana</place> hermosa, <assoc type = "country" image = "flag">bandera latina</assoc></line>
+        <line><place>Mexicana</place> hermosa, <assoc type = "spirit" image = "flag">bandera latina</assoc></line>
         <line>No te pongas triste, solo mira al <assoc type="space" image="sky">cielo</assoc></line>
         <line>Si <assoc type="earth" image="night">la noche</assoc> se cubre de <assoc type="space" image="stars">estrellas</assoc></line>
         <line>Ya nosotros pasamos el duelo</line>

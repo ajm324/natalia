@@ -16,12 +16,12 @@
     
 <chorus>
 <line>Tu sombra</line>
-<line>No será <assoc type = "space" image = "shadow">sombra</assoc>, será <assoc type = "space" image = "light">luz</assoc> en mi destino</line>
+<line>No será <assoc type = "earth" image = "shadow">sombra</assoc>, será <assoc type = "space" image = "light">luz</assoc> en mi destino</line>
 <line>Si no me quieres y al final somos amigos</line>
 <line>Di por qué calles andarás y yo te sigo</line>
 
-<line>Tu <assoc type = "space" image = "shadow">sombra</assoc></line>
-<line>No será <assoc type = "space" image = "shadow">sombra</assoc>, será <assoc type = "space" image = "light">luz</assoc> en mi destino</line>
+<line>Tu <assoc type = "earth" image = "shadow">sombra</assoc></line>
+<line>No será <assoc type = "earth" image = "shadow">sombra</assoc>, será <assoc type = "space" image = "light">luz</assoc> en mi destino</line>
 <line>Si no me quieres y al final somos amigos</line>
 <line>Di por qué calles andarás y yo te sigo</line>
 </chorus>
@@ -34,18 +34,18 @@
     
 <chorus>
 <line>Tu sombra</line>
-<line>No será <assoc type = "space" image = "shadow">sombra</assoc>, será <assoc type = "space" image = "light">luz</assoc> en mi destino</line>
+<line>No será <assoc type = "earth" image = "shadow">sombra</assoc>, será <assoc type = "space" image = "light">luz</assoc> en mi destino</line>
 <line>Si no me quieres y al final somos amigos</line>
 <line>Di por qué calles andarás y yo te sigo</line>
 
-<line>Tu <assoc type = "space" image = "shadow">sombra</assoc></line>
-<line>No será <assoc type = "space" image = "shadow">sombra</assoc>, será <assoc type = "space" image = "light">luz</assoc> en mi destino</line>
+<line>Tu <assoc type = "earth" image = "shadow">sombra</assoc></line>
+<line>No será <assoc type = "earth" image = "shadow">sombra</assoc>, será <assoc type = "space" image = "light">luz</assoc> en mi destino</line>
 <line>Si no me quieres y al final somos amigos</line>
-<line>Di por qué <assoc type = "country" image = "streets">calles</assoc> andarás</line>
-<line>Di por qué <assoc type = "country" image = "streets">calles</assoc> andarás</line>
-<line>Di por qué <assoc type = "country" image = "streets">calles</assoc> andarás</line>
-<line>Di por qué <assoc type = "country" image = "streets">calles</assoc> andarás</line>
-<line>Di por qué <assoc type = "country" image = "streets">calles</assoc> andarás</line>
-<line>Di por qué <assoc type = "country" image = "streets">calles</assoc> andarás y yo te sigo</line>
+<line>Di por qué calles andarás</line>
+<line>Di por qué calles andarás</line>
+<line>Di por qué calles andarás</line>
+<line>Di por qué calles andarás</line>
+<line>Di por qué calles andarás</line>
+<line>Di por qué calles andarás y yo te sigo</line>
 </chorus>
 </song>
