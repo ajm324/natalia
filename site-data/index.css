@@ -1,19 +1,29 @@
 body {
     background-color: BlanchedAlmond;
+    background-image: linear-gradient(BlanchedAlmond,#ffc6af);
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 50px;
 }
 h1, h2 {
     text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 200px;
     font-family: "Monaco", monospace;
 }
 h1 {
     color: PaleVioletRed;
 }
 h2{
-    color: SandyBrown
+    color: SandyBrown;
+}
+h3, h4{
+   text-align: left;
+   font-family: "Monaco", monospace;
+}
+h3{
+    color: DarkMagenta;
+}
+h4{
+    color: Black;
 }
 nav {
     text-align: center;
