@@ -15,14 +15,15 @@ h1 {
 h2{
     color: SandyBrown;
 }
-h3, h4{
+h3, p{
    text-align: left;
    font-family: "Monaco", monospace;
 }
 h3{
+    font-weight: bold;
     color: DarkMagenta;
 }
-h4{
+p{
     color: Black;
 }
 nav {
