@@ -55,6 +55,9 @@ a:hover {
     color: white;
 }
 section {
+    padding: 10px;
+    display: flex;
+    justify-content:space-evenly;
     background-color: PaleVioletRed;
     position: sticky; 
 }
