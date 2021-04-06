@@ -12,15 +12,15 @@
         <line>Yo vidé una <assoc type="earth" image="heron">garza</assoc> mora</line>
         <line>Dándole combate a <assoc type="water" image="river">un rio</assoc></line>
         <line>Así es como se enamora</line>
-        <line>Tu <assoc type="body" image="heart">corazón</assoc> con el mío</line>
+        <line>Tu corazón con el mío</line>
     </verse>
     <verse>
         <line>Yo vidé una garza mora</line>
         <line>Dándole combate a <assoc type="water" image="river">un rio</assoc></line>
         <line>Así es como se enamora</line>
         <line>Así es como se enamora</line>
-        <line>Tu <assoc type="body" image="heart">corazón</assoc> con el mío</line>
-        <line>Tu <assoc type="body" image="heart">corazón</assoc> con el mío</line>
+        <line>Tu corazón con el mío</line>
+        <line>Tu corazón con el mío</line>
     </verse>
     <chorus>
         <line><assoc type="space" image="moon">Luna</assoc>, <assoc type="space" image="moon">luna</assoc>, llena</line>
