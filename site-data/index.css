@@ -144,7 +144,7 @@ p.meta{
     text-align:center;
     font-weight:bold;
 }
-.imageryMenu{
+div.imageryMenu{
     position:absolute;
     left: 150px;
     background-color: SandyBrown; 
@@ -153,7 +153,7 @@ p.meta{
     padding: 15px;
     margin-top: 100px;
 }
-.lyrics{
+div.lyrics{
       display: block;
   margin-left: auto;
   margin-right: auto;
@@ -161,7 +161,7 @@ p.meta{
      background-color: #fff7eb;
      padding: 25px;
 }
-.images {
+ul.images {
     list-style-type:none;
     padding-left:5px;
 }

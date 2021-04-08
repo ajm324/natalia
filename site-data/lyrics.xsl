@@ -9,17 +9,21 @@
         include-content-type="no" indent="yes"/>
     
     <xsl:template match = "/">
+        <xsl:variable name="documents" select="collection('xml-files')"/>
+        <xsl:variable name="albums" select="concat($documents//album=>distinct-values(),'.xhtml')"/>
+        <xsl:result-document href = "{$albums}" indent = "yes">
+            <xsl:copy-of select = "$documents//album=>distinct-values()"/> 
         <html>
             <head>
                 <link rel="stylesheet" type="text/css" href="index.css"/>
                 <title>
-                    <xsl:if test = "/meta/album = 'musas-01'">
+                    <xsl:if test = "meta/album = 'musas-01'">
                         <xsl:text>Musas Vol.1</xsl:text>
                     </xsl:if>
-                    <xsl:if test = "/meta/album = 'musas-02'">
+                    <xsl:if test = "meta/album = 'musas-02'">
                         <xsl:text>Musas Vol.2</xsl:text>
                     </xsl:if>
-                    <xsl:if test = "/meta/album = 'canto-01'">
+                    <xsl:if test = "meta/album = 'canto-01'">
                         <xsl:text>Un Canto por México Vol.1</xsl:text>
                     </xsl:if>
                 </title>
@@ -28,9 +32,9 @@
                 <h1><strong>Imágenes de Natalia</strong></h1>
                 <h2><em>Natural Imagery and Identity in the Music of Natalia Lafourcade</em></h2>
                 <section>
-                    <xsl:comment><!--#include virtual="toc.xhtml" --></xsl:comment>
+                    <xsl:comment>#include virtual="toc.xhtml"</xsl:comment>
                 </section>
-                    <xsl:comment><!--#include virtual="imagery-menu.xhtml" --></xsl:comment>
+                    <xsl:comment>#include virtual="imagery-menu.xhtml"</xsl:comment>
                 <h3> 
                     <xsl:if test = "/meta/album = 'musas-01'">
                     <xsl:text>Musas Vol.1</xsl:text>
@@ -48,7 +52,8 @@
             </body>
         </html>
     </xsl:template>
-    
+
+   
     <xsl:template match = "meta">
         <p class = "meta"><strong><xsl:apply-templates select = "title"/></strong></p>
         <p class = "meta"><xsl:text>Written By:</xsl:text><xsl:apply-templates select = "writers"/></p>
