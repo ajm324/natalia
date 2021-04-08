@@ -11,10 +11,37 @@
     <xsl:template match = "/">
         <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="moore_xslt-06.css"/>
-                <title>Songs</title>
+                <link rel="stylesheet" type="text/css" href="index.css"/>
+                <title>
+                    <xsl:if test = "/meta/album = 'musas-01'">
+                        <xsl:text>Musas Vol.1</xsl:text>
+                    </xsl:if>
+                    <xsl:if test = "/meta/album = 'musas-02'">
+                        <xsl:text>Musas Vol.2</xsl:text>
+                    </xsl:if>
+                    <xsl:if test = "/meta/album = 'canto-01'">
+                        <xsl:text>Un Canto por México Vol.1</xsl:text>
+                    </xsl:if>
+                </title>
             </head>
             <body>
+                <h1><strong>Imágenes de Natalia</strong></h1>
+                <h2><em>Natural Imagery and Identity in the Music of Natalia Lafourcade</em></h2>
+                <section>
+                    <xsl:comment><!--#include virtual="toc.xhtml" --></xsl:comment>
+                </section>
+                    <xsl:comment><!--#include virtual="imagery-menu.xhtml" --></xsl:comment>
+                <h3> 
+                    <xsl:if test = "/meta/album = 'musas-01'">
+                    <xsl:text>Musas Vol.1</xsl:text>
+                </xsl:if>
+                    <xsl:if test = "/meta/album = 'musas-02'">
+                        <xsl:text>Musas Vol.2</xsl:text>
+                    </xsl:if>
+                    <xsl:if test = "/meta/album = 'canto-01'">
+                        <xsl:text>Un Canto por México Vol.1</xsl:text>
+                    </xsl:if>
+                </h3>
                 <div class = "lyrics">
                     <xsl:apply-templates/>
                 </div>

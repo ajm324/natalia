@@ -161,7 +161,7 @@ p.meta{
      background-color: #fff7eb;
      padding: 25px;
 }
-ul{
+.images {
     list-style-type:none;
     padding-left:5px;
 }
@@ -183,4 +183,9 @@ ul{
 .fire{
     color:OrangeRed;
 }
+album-toc{
+    text-align:center;
+    list-style-type: none;
+}
+
 
