@@ -33,7 +33,7 @@ nav {
     font-size: 18px;
     font-weight: 400;
 }
-nav ul {
+nav ul.nav {
     margin: 0;
     padding: 0;
 }
@@ -41,7 +41,7 @@ nav ul li{
     display: inline-block;
     list-style-type: none;
 }
-li {
+li.toc {
     padding-left: 35px;
     padding-top: 6px;
     padding-bottom: 6px;
@@ -133,7 +133,6 @@ button.dropbtn {
   display: block;
 }
 
-
 .dropdown-content a:hover {background-color: #fff0d6; color: #003559;}
 
 .dropdown:hover .dropdown-content {display: block;}
@@ -145,47 +144,25 @@ p.meta{
     font-weight:bold;
 }
 div.imageryMenu{
-    position:absolute;
+    position:fixed;
     left: 150px;
     background-color: SandyBrown; 
     color: black;
-    position: fixed;
     padding: 15px;
-    margin-top: 100px;
+    margin-top: 20px;
 }
 div.lyrics{
       display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 50%;
      background-color: #fff7eb;
      padding: 25px;
 }
 ul.images {
     list-style-type:none;
     padding-left:5px;
-}
-.water{
-    color:DodgerBlue;
-}
-.earth{
-    color:ForestGreen;
-}
-.spirit{
-    color:MediumPurple;
-}
-.air{
-    color:DeepPink;
-}
-.space{
-    color:DarkBlue;
-}
-.fire{
-    color:OrangeRed;
-}
-album-toc{
-    text-align:center;
-    list-style-type: none;
-}
+    }
+
 
 
