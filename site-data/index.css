@@ -137,3 +137,50 @@ button.dropbtn {
 .dropdown-content a:hover {background-color: #fff0d6; color: #003559;}
 
 .dropdown:hover .dropdown-content {display: block;}
+
+/* reading view with toggle menu  */
+
+p.meta{
+    text-align:center;
+    font-weight:bold;
+}
+.imageryMenu{
+    position:absolute;
+    left: 150px;
+    background-color: SandyBrown; 
+    color: black;
+    position: fixed;
+    padding: 15px;
+    margin-top: 100px;
+}
+.lyrics{
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+     background-color: #fff7eb;
+     padding: 25px;
+}
+ul{
+    list-style-type:none;
+    padding-left:5px;
+}
+.water{
+    color:DodgerBlue;
+}
+.earth{
+    color:ForestGreen;
+}
+.spirit{
+    color:MediumPurple;
+}
+.air{
+    color:DeepPink;
+}
+.space{
+    color:DarkBlue;
+}
+.fire{
+    color:OrangeRed;
+}
+
