@@ -56,13 +56,13 @@
    
     <xsl:template match = "meta">
         <p class = "meta"><strong><xsl:apply-templates select = "title"/></strong></p>
-        <p class = "meta"><xsl:text>Written By:</xsl:text><xsl:apply-templates select = "writers"/></p>
-        <p class = "meta"><xsl:text>Featuring:</xsl:text><xsl:apply-templates select = "features"/></p>
+        <p class = "meta"><xsl:text>Written By: </xsl:text><xsl:apply-templates select = "writers"/></p>
+        <p class = "meta"><xsl:text>Featuring: </xsl:text><xsl:apply-templates select = "features"/></p>
         <br/>
     </xsl:template>
     
     <xsl:template match = "instrumental | verse | chorus | bridge | pre-chorus | post-chorus | outro">
-        <xsl:apply-templates/><br/>
+        <div class = "lyric"><xsl:apply-templates/></div>
     </xsl:template>
     
     <xsl:template match = "line">

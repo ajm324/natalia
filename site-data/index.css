@@ -144,7 +144,7 @@ p.meta{
     font-weight:bold;
 }
 div.imageryMenu{
-    position:fixed;
+    position: fixed;
     left: 150px;
     background-color: SandyBrown; 
     color: black;
@@ -163,6 +163,32 @@ ul.images {
     list-style-type:none;
     padding-left:5px;
     }
-
-
+    
+p.earth{
+     color:ForestGreen;
+     display:inline;
+ }
+p.water{
+     color:DodgerBlue;
+     display:inline;
+ }
+p.space{
+     color:DarkBlue;
+     display:inline;
+ }
+p.air{
+     color:DeepPink;
+     display:inline;
+ }
+p.fire{
+     color:OrangeRed;
+     display:inline;
+ }
+p.spirit{
+     color:MediumPurple;
+     display:inline;
+ }
+div.lyric{
+    margin-top:15px;
+}
 

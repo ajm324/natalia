@@ -11,7 +11,7 @@
 <verse>
 <line>Sigo cruzando <assoc type = "water" image = "river">ríos</assoc></line>
 <line>Andando <assoc type = "earth" image = "jungle">selvas</assoc></line>
-<line>Amando el sol</line>
+<line>Amando <assoc type = "space" image = "sun">el sol</assoc></line>
 <line>Cada día sigo sacando espinas</line>
 <line>De lo profundo del corazón</line>
 <line>En la noche sigo <assoc type = "spirit" image = "dreams">encendiendo sueños</assoc></line>
