@@ -34,8 +34,10 @@
                         <section>
                             <xsl:comment>#include virtual="toc.xhtml"</xsl:comment>
                         </section>
-                        <xsl:comment>#include virtual="imagery-menu.xhtml"</xsl:comment>
-                        <h3>
+                        <div class = "imageryMenu">
+                            <xsl:comment>#include virtual="imagery-menu.xhtml"</xsl:comment>
+                        </div>
+                        <h3 class = "album">
                             <xsl:value-of select = "$album-names(current-grouping-key())"/>
                         </h3>
                         <div class="lyrics">
