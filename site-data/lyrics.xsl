@@ -8,22 +8,23 @@
     <xsl:output method="xhtml" html-version="5" omit-xml-declaration="no" 
         include-content-type="no" indent="yes"/>
     
-    <xsl:template match = "/">
-        <xsl:variable name="documents" select="collection('xml-files')"/>
-        <xsl:variable name="albums" select="concat($documents//album=>distinct-values(),'.xhtml')"/>
+    <xsl:template name = "xsl:initial-template">
+        <xsl:variable name="all-songs" select="collection('xml-files')"/>
+        <xsl:variable name="albums" select="concat($all-songs//album=>distinct-values(),'.xhtml')"/>
         <xsl:result-document href = "{$albums}" indent = "yes">
-            <xsl:copy-of select = "$documents//album=>distinct-values()"/> 
+            <xsl:copy-of select = "$all-songs//album=>distinct-values()"/> 
+        </xsl:result-document>
         <html>
             <head>
                 <link rel="stylesheet" type="text/css" href="index.css"/>
                 <title>
-                    <xsl:if test = "meta/album = 'musas-01'">
+                    <xsl:if test = "meta/album[contains(text(), 'musas-01')]">
                         <xsl:text>Musas Vol.1</xsl:text>
                     </xsl:if>
-                    <xsl:if test = "meta/album = 'musas-02'">
+                    <xsl:if test = "meta/album[contains(text(), 'musas-02')]">
                         <xsl:text>Musas Vol.2</xsl:text>
                     </xsl:if>
-                    <xsl:if test = "meta/album = 'canto-01'">
+                    <xsl:if test = "meta/albumalbum[contains(text(), 'canto-01')]">
                         <xsl:text>Un Canto por México Vol.1</xsl:text>
                     </xsl:if>
                 </title>
