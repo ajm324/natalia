@@ -80,16 +80,15 @@ img {
 /* select an excerpt button */
 
 button.dropbtn {
-  width: 150px;
   justify-content:space-evenly;
   padding: 8px;
   padding-top: 10px;
   padding-bottom: 10px;
   background-color: PaleVioletRed;
-  color: white;
+  color: LightPink;
   text-align: center;
   vertical-align: middle;
-  outline: none;
+  border: none;
   text-decoration: none;
   font-family: "Monaco", monospace;
   font-size: 18px;
@@ -108,7 +107,6 @@ button.dropbtn {
   font-family: "Monaco", monospace;
   font-size: 18px;
   font-weight: 500;
-  width: 150px;
   display: flex;
   margin-left: 0%
 }
@@ -129,7 +127,6 @@ button.dropbtn {
   left: 0px;
   background-color: PaleVioletRed;
   min-width: 300px;
-  /*  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
   z-index: 1;
 }
 
@@ -155,8 +152,9 @@ p.meta{
     font-weight:bold;
 }
 div.imageryMenu{
-    position: fixed;
+    position: sticky;
     left: 150px;
+    width: 15%;
     background-color: SandyBrown; 
     color: black;
     padding: 15px;
