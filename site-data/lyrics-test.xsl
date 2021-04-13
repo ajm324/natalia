@@ -55,10 +55,12 @@
                 <xsl:apply-templates select="title"/>
             </strong>
         </p>
+        <xsl:if test = "child::writers">
         <p class="meta">
             <xsl:text>Written By: </xsl:text>
             <xsl:apply-templates select="writers"/>
         </p>
+        </xsl:if>
       <xsl:if test = "child::features">
         <p class="meta">
             <xsl:text>Featuring: </xsl:text>
