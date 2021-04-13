@@ -66,8 +66,8 @@
             <xsl:text>Featuring: </xsl:text>
             <xsl:apply-templates select="features"/>
         </p>
-        <br/>
       </xsl:if>
+        <br/>
     </xsl:template>
 
     <xsl:template match="instrumental | verse | chorus | bridge | pre-chorus | post-chorus | outro">
