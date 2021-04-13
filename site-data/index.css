@@ -152,16 +152,15 @@ p.meta{
     font-weight:bold;
 }
 div.imageryMenu{
-    position: sticky;
-    left: 150px;
-    width: 15%;
+    position: fixed;
+    left: 120px;
+    width: 7%;
     background-color: SandyBrown; 
     color: black;
     padding: 15px;
     margin-top: 20px;
 }
 div.lyrics{
-      display: block;
       margin-left: auto;
       margin-right: auto;
      width: 50%;
