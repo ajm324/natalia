@@ -59,11 +59,13 @@
             <xsl:text>Written By: </xsl:text>
             <xsl:apply-templates select="writers"/>
         </p>
+      <xsl:if test = "child::features">
         <p class="meta">
             <xsl:text>Featuring: </xsl:text>
             <xsl:apply-templates select="features"/>
         </p>
         <br/>
+      </xsl:if>
     </xsl:template>
 
     <xsl:template match="instrumental | verse | chorus | bridge | pre-chorus | post-chorus | outro">
