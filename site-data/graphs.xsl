@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-        xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.w3.org/2000/svg"
-        xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="#all"
-        version="3.0">
-        <xsl:output method="xml" indent="yes"/>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.w3.org/2000/svg"
+    xmlns:math="http://www.w3.org/2005/xpath-functions/math" exclude-result-prefixes="#all"
+    version="3.0">
+    <xsl:output method="xml" indent="yes"/>
         
         <xsl:variable name="all-songs" select="collection('../xml-files?select=*.xml')"
             as="document-node()+"/>
@@ -36,9 +36,9 @@
                             <text text-anchor = "middle" font-weight = "bold" x = "{$max_width div 2}" y = "{80}" fill = "black">Type of Imagery</text>
                             <text text-anchor = "middle"  font-weight = "bold" transform = "rotate(270)" x = "{($max_height * $yscale) div 2}" y = "{-30}" fill = "black">Number of Occurrences</text>
                             <text text-anchor = "middle" font-weight = "bold" x = "{$max_width div 2}" y = "{-215}" fill = "black">Imagery in <xsl:value-of select = "$album-names(current-grouping-key())"/></text>
-                            <text x = "{-15}" y = "{-$yscale * 5}" fill = "black">25</text>
-                            <text x = "{-20}" y = "{-$yscale * 10}" fill = "black">50</text>
-                            <text x = "{-20}" y = "{-$yscale * 15}" fill = "black">75</text>
+                            <text x = "{-20}" y = "{-$yscale * 25}" fill = "black">25</text>
+                            <text x = "{-20}" y = "{-$yscale * 50}" fill = "black">50</text>
+                            <text x = "{-20}" y = "{-$yscale * 75}" fill = "black">75</text>
                             <!-- Ruling Lines -->
                             <line x1="0" x2="{$max_width}" y1="{-$yscale * 5}" y2="{-$yscale * 5}" stroke="LightGrey" stroke-width="2"/>
                             <line x1="0" x2="{$max_width}" y1="{-$yscale * 10}" y2="{-$yscale * 10}" stroke="LightGrey" stroke-width="2"/>
@@ -77,4 +77,3 @@
         </xsl:template>
         
     </xsl:stylesheet>
-</xsl:stylesheet>
