@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="350" width="500">
+   <g transform="translate(100,250)">
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="35"
+            fill="black">Earth</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="80"
+            fill="black">Water</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="125"
+            fill="black">Space</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="170"
+            fill="black">Air</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="215"
+            fill="black">Fire</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="260"
+            fill="black">Spirit</text>
+      <text text-anchor="middle"
+            font-weight="bold"
+            x="142.5"
+            y="80"
+            fill="black">Type of Imagery</text>
+      <text text-anchor="middle"
+            font-weight="bold"
+            transform="rotate(270)"
+            x="100"
+            y="-30"
+            fill="black">Number of Occurrences</text>
+      <text text-anchor="middle"
+            font-weight="bold"
+            x="142.5"
+            y="-215"
+            fill="black">Imagery in Un Canto por México Vol.1</text>
+      <text x="-20" y="-50" fill="black">25</text>
+      <text x="-20" y="-100" fill="black">50</text>
+      <text x="-20" y="-150" fill="black">75</text>
+      <line x1="0"
+            x2="285"
+            y1="-50"
+            y2="-50"
+            stroke="LightGrey"
+            stroke-width="2"/>
+      <line x1="0"
+            x2="285"
+            y1="-100"
+            y2="-100"
+            stroke="LightGrey"
+            stroke-width="2"/>
+      <line x1="0"
+            x2="285"
+            y1="-150"
+            y2="-150"
+            stroke="LightGrey"
+            stroke-width="2"/>
+        canto-01
+        Nunca Es Suficiente
+        Daniela Azpiasu
+Nunca es suficiente para mí
+Porque siempre quiero más de ti
+Yo quisiera hacerte más feliz
+Hoy, mañana, siempre, hasta el fin
+Mi corazón estalla por tu amor
+¿Y tú qué crees? ¿que esto es muy normal?
+Acostumbrado estás tanto al amor
+Que no lo ves, yo nunca he estado así
+Si de casualidad
+Me ves llorando un poco
+Es porque yo te quiero a ti
+Y tú te vas, jugando a enamorar
+Todas las ilusiones vagabundas que se dejan alcanzar
+Y no verás que lo que yo te ofrezco es algo incondicional
+Y tú te vas, jugando a enamorar
+Te enredas por las noches, entre historias que nunca tienen final
+Te perderás dentro de mis recuerdos por haberme hecho llorar
+Nunca es suficiente para mí
+Porque siempre quiero más de ti
+No ha cambiado en nada mi sentir
+Aunque me haces mal te quiero aquí
+Mi corazón estalla de dolor
+¿Cómo evitar que se fracture en mil?
+Acostumbrado estás tanto al amor
+Que no lo ves, yo nunca he estado así
+Si de casualidad
+Me ves llorando un poco
+Es porque yo te quiero a ti
+Y tú te vas, jugando a enamorar
+Todas las ilusiones vagabundas que se dejan alcanzar
+Y no verás que lo que yo te ofrezco es algo incondicional
+Incondicional
+Y tú te vas, jugando a enamorar
+Te enredas por las noches, entre historias que nunca tienen final
+Te perderás dentro de mis recuerdos por haberme hecho llorar
+Y tú te vas, jugando a enamorar
+Te enredas por las noches, entre historias que nunca tienen final
+Te perderás dentro de mis recuerdos por haberme hecho llorar
+Te perderás dentro de mis recuerdos por haberme hecho llorar
+<line x1="0"
+            x2="285"
+            y1="0"
+            y2="0"
+            stroke="black"
+            stroke-width="2"/>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="-200"
+            stroke="black"
+            stroke-width="2"/>
+   </g>
+</svg>

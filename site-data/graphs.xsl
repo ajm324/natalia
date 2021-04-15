@@ -21,7 +21,7 @@
             "canto-01" : "Un Canto por México Vol.1"
             }'/> 
         
-        <xsl:template match="/">
+        <xsl:template name="xsl:initial-template">
             <xsl:for-each-group select="$all-songs" group-by="descendant::album">
                 <xsl:result-document href="{current-grouping-key()}.svg" indent="yes" method="xml">
                     <svg height = "350" width = "500">
@@ -40,9 +40,9 @@
                             <text x = "{-20}" y = "{-$yscale * 50}" fill = "black">50</text>
                             <text x = "{-20}" y = "{-$yscale * 75}" fill = "black">75</text>
                             <!-- Ruling Lines -->
-                            <line x1="0" x2="{$max_width}" y1="{-$yscale * 5}" y2="{-$yscale * 5}" stroke="LightGrey" stroke-width="2"/>
-                            <line x1="0" x2="{$max_width}" y1="{-$yscale * 10}" y2="{-$yscale * 10}" stroke="LightGrey" stroke-width="2"/>
-                            <line x1="0" x2="{$max_width}" y1="{-$yscale * 15}" y2="{-$yscale * 15}" stroke="LightGrey" stroke-width="2"/>
+                            <line x1="0" x2="{$max_width}" y1="{-$yscale * 25}" y2="{-$yscale * 25}" stroke="LightGrey" stroke-width="2"/>
+                            <line x1="0" x2="{$max_width}" y1="{-$yscale * 50}" y2="{-$yscale * 50}" stroke="LightGrey" stroke-width="2"/>
+                            <line x1="0" x2="{$max_width}" y1="{-$yscale * 75}" y2="{-$yscale * 75}" stroke="LightGrey" stroke-width="2"/>
                             <!-- Bars-->
                             <xsl:apply-templates/>
                             <!--Axes-->
