@@ -201,3 +201,39 @@ div.lyric{
     margin-top:15px;
 }
 
+/*********************/
+/* pop up container */
+/*******************/
+span.tooltip {
+    position: relative;                                  /* is position relative and if so, what to? */
+    display: inline;                                     /* how will the text which triggers the pop up behave with regards to height/width? */
+}
+
+/******************************/
+/* Pop up and text within it */
+/****************************/
+span.tooltip span.tooltiptext {
+  visibility: hidden;                                    /* the pop up is hidden by default until toggled otherwise */
+  min-width: 40px;                                       /* sets minimum width, useful for cases with long pop up messages */
+  background-color: white;                               /* pop up box color */
+  color: red;                                            /* text color inside pop up box */
+  text-align: center;                                    /* spaces how text is aligned inside of the pop up */
+  padding: 3px;                                          /* how much space surrounds the text inside of the pop up */
+  border-radius: 6px;                                    /* controls how rounded the pop up is (bigger numbers make box more rounded) */
+  position: absolute;                                    /* where is it with regards to the text? absolute keeps it fixed above it */
+  bottom: 125%;                                          /* spaces where the pop up appears on the y-axis */
+  margin-left: -50%;                                     /* spaces where the pop up appears on the x-axis */
+
+  /* Fade in tooltip */
+  
+  opacity: 0;                                            /* how transparent/opaque is it? 0 is completely transparent (invisible) and 1 is fully opaque (visible) */
+  transition: opacity 0.3s;                              /* what is changing and how long does it take? */
+}
+
+/********************/
+/*  hover feature  */
+/******************/
+span.tooltip:hover span.tooltiptext {
+  visibility: visible;                                   /* when the tooltip span is hovered over, visibility is toggled on */
+  opacity: 1;                                            /* how transparent/opaque is it? 0 is completely transparent (invisible) and 1 is fully opaque (visible) */
+}

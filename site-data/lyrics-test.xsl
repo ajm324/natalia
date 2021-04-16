@@ -83,37 +83,67 @@
 
     <xsl:template match="assoc[@type = 'water']">
         <span class="water">
+            <span class="tooltip">
             <xsl:apply-templates/>
+                <span class="tooltiptext">
+                    <xsl:value-of select="@image"/>
+                </span>
+            </span>
         </span>
     </xsl:template>
 
     <xsl:template match="assoc[@type = 'earth']">
         <span class="earth">
-            <xsl:apply-templates/>
+            <span class="tooltip">
+                <xsl:apply-templates/>
+                <span class="tooltiptext">
+                    <xsl:value-of select="@image"/>
+                </span>
+            </span>
         </span>
     </xsl:template>
 
     <xsl:template match="assoc[@type = 'space']">
         <span class="space">
-            <xsl:apply-templates/>
+            <span class="tooltip">
+                <xsl:apply-templates/>
+                <span class="tooltiptext">
+                    <xsl:value-of select="@image"/>
+                </span>
+            </span>
         </span>
     </xsl:template>
 
     <xsl:template match="assoc[@type = 'spirit']">
-        <span class="water">
-            <xsl:apply-templates/>
+        <span class="spirit">
+            <span class="tooltip">
+                <xsl:apply-templates/>
+                <span class="tooltiptext">
+                    <xsl:value-of select="@image"/>
+                </span>
+            </span>
         </span>
     </xsl:template>
 
     <xsl:template match="assoc[@type = 'air']">
-        <span class="water">
-            <xsl:apply-templates/>
+        <span class="air">
+            <span class="tooltip">
+                <xsl:apply-templates/>
+                <span class="tooltiptext">
+                    <xsl:value-of select="@image"/>
+                </span>
+            </span>
         </span>
     </xsl:template>
 
     <xsl:template match="assoc[@type = 'fire']">
-        <span class="water">
-            <xsl:apply-templates/>
+        <span class="fire">
+            <span class="tooltip">
+                <xsl:apply-templates/>
+                <span class="tooltiptext">
+                    <xsl:value-of select="@image"/>
+                </span>
+            </span>
         </span>
     </xsl:template>
 
