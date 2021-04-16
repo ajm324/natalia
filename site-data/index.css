@@ -215,8 +215,8 @@ span.tooltip {
 span.tooltip span.tooltiptext {
   visibility: hidden;                                    /* the pop up is hidden by default until toggled otherwise */
   min-width: 40px;                                       /* sets minimum width, useful for cases with long pop up messages */
-  background-color: white;                               /* pop up box color */
-  color: red;                                            /* text color inside pop up box */
+  background-color: PaleVioletRed;                               /* pop up box color */
+  color: white;                                            /* text color inside pop up box */
   text-align: center;                                    /* spaces how text is aligned inside of the pop up */
   padding: 3px;                                          /* how much space surrounds the text inside of the pop up */
   border-radius: 6px;                                    /* controls how rounded the pop up is (bigger numbers make box more rounded) */
@@ -228,6 +228,19 @@ span.tooltip span.tooltiptext {
   
   opacity: 0;                                            /* how transparent/opaque is it? 0 is completely transparent (invisible) and 1 is fully opaque (visible) */
   transition: opacity 0.3s;                              /* what is changing and how long does it take? */
+}
+
+/************************/
+/* little pop up arrow */
+/**********************/
+.tooltip .tooltiptext::after {
+  content: "";                                           /* there is no content inside of the arrow */
+  position: absolute;                                    /* where is it with regards to the text? absolute keeps it fixed above */
+  top: 100%;                                             /* spaces where the pop up appears on the y-axis */
+  margin-left: -50%;                                     /* spaces where the pop up appears on the x-axis */
+  border-width: 5px;                                     /* how big is the arrow */
+  border-style: solid;                                   /* arrow is filled in */
+  border-color: PaleVioletRed transparent transparent transparent; /* color of arrow. it's actually part of a rectangle, try changing the other values */
 }
 
 /********************/
