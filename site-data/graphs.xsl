@@ -44,7 +44,7 @@
                             <line x1="0" x2="{$max_width}" y1="{-$yscale * 50}" y2="{-$yscale * 50}" stroke="LightGrey" stroke-width="2"/>
                             <line x1="0" x2="{$max_width}" y1="{-$yscale * 75}" y2="{-$yscale * 75}" stroke="LightGrey" stroke-width="2"/>
                             <!-- Bars-->
-                            <xsl:apply-templates/>
+                            <xsl:apply-templates select = "current-group()//song"/>
                             <!--Axes-->
                             <line x1="0" x2="{$max_width}" y1="0" y2="0" stroke="black" stroke-width="2"/>
                             <line x1="0" x2="0" y1="0" y2="{-$max_height * $yscale}" stroke="black"
@@ -57,7 +57,6 @@
         
         
         <xsl:template match = "song">
-            
             <xsl:variable name = "earth" as = "xs:integer" select = "//assoc[@type ='earth'] =>count() *$yscale"/>
             <xsl:variable name = "water" as = "xs:integer" select = "//assoc[@type ='water'] =>count() * $yscale"/>
             <xsl:variable name = "space" as = "xs:integer" select = "//assoc[@type ='space'] =>count()* $yscale"/>
