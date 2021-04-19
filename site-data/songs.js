@@ -16,6 +16,7 @@ function toggleClasses() {
             earth[i].classList.toggle('yes');
         };
         };
+        
         break;
         case 'space': {
         let space = document.querySelectorAll('.space');
@@ -23,35 +24,39 @@ function toggleClasses() {
             space[i].classList.toggle('yes');
         };
         };
+        
         break;
         case 'water': {
-        let work = document.querySelectorAll('.water');
-        for (let i = 0; i < work.length; i++) {
+        let water = document.querySelectorAll('.water');
+        for (let i = 0; i < water.length; i++) {
             water[i].classList.toggle('yes');
         };
         };
+        
         break;
         case 'air': {
         let air = document.querySelectorAll('.air');
         for (let i = 0; i < air.length; i++) {
-            air[i].classList.toggle('on');
+            air[i].classList.toggle('yes');
         };
         };
+        
         break;
         case 'fire': {
         let fire = document.querySelectorAll('.fire');
         for (let i = 0; i < fire.length; i++) {
-            fire[i].classList.toggle('on');
+            fire[i].classList.toggle('yes');
         };
         };
+        
         break;
         case 'spirit': {
         let spirit = document.querySelectorAll('.spirit');
         for (let i = 0; i < spirit.length; i++) {
-            spirit[i].classList.toggle('on');
+            spirit[i].classList.toggle('yes');
         };
-     
         };
+        
         break;
     }
 }
