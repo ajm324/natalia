@@ -203,23 +203,29 @@ div.lyric{
 
 /* reading view outputs */
 
-earth.on{
+.earth.yes{
     color:ForestGreen;
+    font-weight: bold;
 }
-water.on{
+.water.yes{
     color:DodgerBlue;
+    font-weight: bold;
 }
-space.on{
+.space.yes{
     color:DarkBlue;
+    font-weight: bold;
 }
-air.on{
+.air.yes{
     color:DeepPink;
+    font-weight: bold;
 }
-fire.on{
+.fire.yes{
     color:OrangeRed;
+    font-weight: bold;
 }
-spirit.on{
+.spirit.yes{
     color:MediumPurple;
+    font-weight: bold;
 }
 
 
