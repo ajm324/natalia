@@ -1,36 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" height="350" width="500">
    <g transform="translate(100,250)">
-      <text text-anchor="end"
-            transform="rotate(-90)"
-            x="-10"
-            y="35"
-            fill="black">Earth</text>
-      <text text-anchor="end"
-            transform="rotate(-90)"
-            x="-10"
-            y="80"
-            fill="black">Water</text>
-      <text text-anchor="end"
-            transform="rotate(-90)"
-            x="-10"
-            y="125"
-            fill="black">Space</text>
-      <text text-anchor="end"
-            transform="rotate(-90)"
-            x="-10"
-            y="170"
-            fill="black">Air</text>
-      <text text-anchor="end"
-            transform="rotate(-90)"
-            x="-10"
-            y="215"
-            fill="black">Fire</text>
-      <text text-anchor="end"
-            transform="rotate(-90)"
-            x="-10"
-            y="260"
-            fill="black">Spirit</text>
       <text text-anchor="middle"
             font-weight="bold"
             x="142.5"
@@ -41,15 +11,16 @@
             transform="rotate(270)"
             x="100"
             y="-30"
-            fill="black">Number of Occurrences</text>
+            fill="black">Number of
+                            Occurrences</text>
       <text text-anchor="middle"
             font-weight="bold"
             x="142.5"
             y="-215"
             fill="black">Imagery in Un Canto por México Vol.1</text>
-      <text x="-20" y="-50" fill="black">25</text>
-      <text x="-20" y="-100" fill="black">50</text>
-      <text x="-20" y="-150" fill="black">75</text>
+      <text dominant-baseline="middle" x="-20" y="-50" fill="black">25</text>
+      <text dominant-baseline="middle" x="-20" y="-100" fill="black">50</text>
+      <text dominant-baseline="middle" x="-20" y="-150" fill="black">75</text>
       <line x1="0"
             x2="285"
             y1="-50"
@@ -68,55 +39,81 @@
             y2="-150"
             stroke="LightGrey"
             stroke-width="2"/>
-        canto-01
-        Nunca Es Suficiente
-        Daniela Azpiasu
-Nunca es suficiente para mí
-Porque siempre quiero más de ti
-Yo quisiera hacerte más feliz
-Hoy, mañana, siempre, hasta el fin
-Mi corazón estalla por tu amor
-¿Y tú qué crees? ¿que esto es muy normal?
-Acostumbrado estás tanto al amor
-Que no lo ves, yo nunca he estado así
-Si de casualidad
-Me ves llorando un poco
-Es porque yo te quiero a ti
-Y tú te vas, jugando a enamorar
-Todas las ilusiones vagabundas que se dejan alcanzar
-Y no verás que lo que yo te ofrezco es algo incondicional
-Y tú te vas, jugando a enamorar
-Te enredas por las noches, entre historias que nunca tienen final
-Te perderás dentro de mis recuerdos por haberme hecho llorar
-Nunca es suficiente para mí
-Porque siempre quiero más de ti
-No ha cambiado en nada mi sentir
-Aunque me haces mal te quiero aquí
-Mi corazón estalla de dolor
-¿Cómo evitar que se fracture en mil?
-Acostumbrado estás tanto al amor
-Que no lo ves, yo nunca he estado así
-Si de casualidad
-Me ves llorando un poco
-Es porque yo te quiero a ti
-Y tú te vas, jugando a enamorar
-Todas las ilusiones vagabundas que se dejan alcanzar
-Y no verás que lo que yo te ofrezco es algo incondicional
-Incondicional
-Y tú te vas, jugando a enamorar
-Te enredas por las noches, entre historias que nunca tienen final
-Te perderás dentro de mis recuerdos por haberme hecho llorar
-Y tú te vas, jugando a enamorar
-Te enredas por las noches, entre historias que nunca tienen final
-Te perderás dentro de mis recuerdos por haberme hecho llorar
-Te perderás dentro de mis recuerdos por haberme hecho llorar
-<line x1="0"
+      <rect x="15" y="-122" height="122" width="30" fill="ForestGreen"/>
+      <text text-anchor="middle"
+            x="30"
+            y="-128"
+            fill="black"
+            font-size="small">61</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="35.5"
+            fill="black">Earth</text>
+      <rect x="60" y="-12" height="12" width="30" fill="DodgerBlue"/>
+      <text text-anchor="middle"
+            x="75"
+            y="-18"
+            fill="black"
+            font-size="small">6</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="80.5"
+            fill="black">Water</text>
+      <rect x="105" y="-52" height="52" width="30" fill="DarkBlue"/>
+      <text text-anchor="middle"
+            x="120"
+            y="-58"
+            fill="black"
+            font-size="small">26</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="125.5"
+            fill="black">Space</text>
+      <rect x="150" y="-12" height="12" width="30" fill="DeepPink"/>
+      <text text-anchor="middle"
+            x="165"
+            y="-18"
+            fill="black"
+            font-size="small">6</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="170.5"
+            fill="black">Air</text>
+      <rect x="195" y="-0" height="0" width="30" fill="OrangeRed"/>
+      <text text-anchor="middle"
+            x="210"
+            y="-6"
+            fill="black"
+            font-size="small">0</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="215.5"
+            fill="black">Fire</text>
+      <rect x="240" y="-48" height="48" width="30" fill="MediumPurple"/>
+      <text text-anchor="middle"
+            x="255"
+            y="-54"
+            fill="black"
+            font-size="small">24</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="260.5"
+            fill="black">Spirit</text>
+      <line stroke-linecap="square"
+            x1="0"
             x2="285"
             y1="0"
             y2="0"
             stroke="black"
             stroke-width="2"/>
-      <line x1="0"
+      <line stroke-linecap="square"
+            x1="0"
             x2="0"
             y1="0"
             y2="-200"

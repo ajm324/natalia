@@ -1,36 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" height="350" width="500">
    <g transform="translate(100,250)">
-      <text text-anchor="end"
-            transform="rotate(-90)"
-            x="-10"
-            y="35"
-            fill="black">Earth</text>
-      <text text-anchor="end"
-            transform="rotate(-90)"
-            x="-10"
-            y="80"
-            fill="black">Water</text>
-      <text text-anchor="end"
-            transform="rotate(-90)"
-            x="-10"
-            y="125"
-            fill="black">Space</text>
-      <text text-anchor="end"
-            transform="rotate(-90)"
-            x="-10"
-            y="170"
-            fill="black">Air</text>
-      <text text-anchor="end"
-            transform="rotate(-90)"
-            x="-10"
-            y="215"
-            fill="black">Fire</text>
-      <text text-anchor="end"
-            transform="rotate(-90)"
-            x="-10"
-            y="260"
-            fill="black">Spirit</text>
       <text text-anchor="middle"
             font-weight="bold"
             x="142.5"
@@ -41,15 +11,16 @@
             transform="rotate(270)"
             x="100"
             y="-30"
-            fill="black">Number of Occurrences</text>
+            fill="black">Number of
+                            Occurrences</text>
       <text text-anchor="middle"
             font-weight="bold"
             x="142.5"
             y="-215"
             fill="black">Imagery in Musas Vol.1</text>
-      <text x="-20" y="-50" fill="black">25</text>
-      <text x="-20" y="-100" fill="black">50</text>
-      <text x="-20" y="-150" fill="black">75</text>
+      <text dominant-baseline="middle" x="-20" y="-50" fill="black">25</text>
+      <text dominant-baseline="middle" x="-20" y="-100" fill="black">50</text>
+      <text dominant-baseline="middle" x="-20" y="-150" fill="black">75</text>
       <line x1="0"
             x2="285"
             y1="-50"
@@ -68,44 +39,81 @@
             y2="-150"
             stroke="LightGrey"
             stroke-width="2"/>
-        musas-01
-        Mexicana Hermosa
-        Natalia Lafourcade, Gustavo Guerrero
-        Los Macorinos
-        México
-        Mexicana hermosa, bandera latina
-        No te pongas triste, solo mira al cielo
-        Si la noche se cubre de estrellas
-        Ya nosotros pasamos el duelo
-        Si la noche se cubre de estrellas
-        Ya nosotros calmamos la pena
-        No te pongas triste, solo mira al cielo
-        Que la noche es buena pa reconciliar los sueños
-        No te pongas triste, que tus ojos negros
-        Son la llama inquieta, dulce ardor en mi consuelo
-        Mexicana hermosa, morena bendita
-        En tus ojos negros doblo mis apuestas
-        Hoy tu tierra marchita y eterna
-        Ve nacer toda luz en su cuesta
-        Hoy tu tierra marchita y eterna
-        Roba besos y da primaveras
-        No te pongas triste, solo mira al cielo
-        Que la noche es buena pa reconciliar los sueños
-        No te pongas triste, que tus ojos negros
-        Son la llama inquieta, dulce ardor en mi consuelo
-        Mexicana mía, preciosa María
-        No te olvides nunca que eres poderosa
-        A tu manto, pasión colorida
-        Yo le canto mi copla y mi prosa
-        Que a tu manto, pasión colorida
-        Yo le canto pa toda la vida
-<line x1="0"
+      <rect x="15" y="-118" height="118" width="30" fill="ForestGreen"/>
+      <text text-anchor="middle"
+            x="30"
+            y="-124"
+            fill="black"
+            font-size="small">59</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="35.5"
+            fill="black">Earth</text>
+      <rect x="60" y="-52" height="52" width="30" fill="DodgerBlue"/>
+      <text text-anchor="middle"
+            x="75"
+            y="-58"
+            fill="black"
+            font-size="small">26</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="80.5"
+            fill="black">Water</text>
+      <rect x="105" y="-50" height="50" width="30" fill="DarkBlue"/>
+      <text text-anchor="middle"
+            x="120"
+            y="-56"
+            fill="black"
+            font-size="small">25</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="125.5"
+            fill="black">Space</text>
+      <rect x="150" y="-4" height="4" width="30" fill="DeepPink"/>
+      <text text-anchor="middle"
+            x="165"
+            y="-10"
+            fill="black"
+            font-size="small">2</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="170.5"
+            fill="black">Air</text>
+      <rect x="195" y="-6" height="6" width="30" fill="OrangeRed"/>
+      <text text-anchor="middle"
+            x="210"
+            y="-12"
+            fill="black"
+            font-size="small">3</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="215.5"
+            fill="black">Fire</text>
+      <rect x="240" y="-14" height="14" width="30" fill="MediumPurple"/>
+      <text text-anchor="middle"
+            x="255"
+            y="-20"
+            fill="black"
+            font-size="small">7</text>
+      <text text-anchor="end"
+            transform="rotate(-90)"
+            x="-10"
+            y="260.5"
+            fill="black">Spirit</text>
+      <line stroke-linecap="square"
+            x1="0"
             x2="285"
             y1="0"
             y2="0"
             stroke="black"
             stroke-width="2"/>
-      <line x1="0"
+      <line stroke-linecap="square"
+            x1="0"
             x2="0"
             y1="0"
             y2="-200"
