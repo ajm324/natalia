@@ -20,4 +20,3 @@
     * Joy:
         * Embedding SVG into HTML
         * Analysis page
-    
