@@ -57,6 +57,9 @@ a:hover {
     text-decoration: none;
     color: white;
 }
+a.ccl{
+    color: DarkMagenta;
+}
 section {
     padding: 10px;
     display: flex;
